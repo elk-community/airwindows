@@ -2,9 +2,22 @@ cmake_minimum_required(VERSION 3.9)
 project(airwindows_ports)
 
 set(CMAKE_CXX_STANDARD 14)
-add_compile_options(-O2 -D__cdecl=)
+option(COMPILE_FOR_ELK_PI "Set flags to optimize for Elk Pi compilation" off)
+
+if(COMPILE_FOR_ELK_PI)
+    add_compile_options(-O3 -pipe -ffast-math -feliminate-unused-debug-types -D__cdecl=)
+else()
+    add_compile_options(-O2 -D__cdecl=)
+endif(COMPILE_FOR_ELK_PI)
 
 include(Helpers.cmake)
+
+set(VSTSDK_ROOT ${CMAKE_CURRENT_SOURCE_DIR}/include/vstsdk)
+set(VSTSDK_SOURCES
+    "${VSTSDK_ROOT}/audioeffectx.cpp"
+    "${VSTSDK_ROOT}/audioeffect.cpp"
+    "${VSTSDK_ROOT}/vstplugmain.cpp"
+)
 
 add_subdirectory(include/vstsdk)
 add_airwindows_plugin(Acceleration)
