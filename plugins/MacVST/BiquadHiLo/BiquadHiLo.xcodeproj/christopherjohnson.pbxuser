@@ -49,11 +49,11 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 736194943;
-			PBXWorkspaceStateSaveDate = 736194943;
+			PBXPerProjectTemplateStateSaveDate = 796563310;
+			PBXWorkspaceStateSaveDate = 796563310;
 		};
 		perUserProjectItems = {
-			8BCB29ED2BE17662001B6E66 /* PBXBookmark */ = 8BCB29ED2BE17662001B6E66 /* PBXBookmark */;
+			8B89D6CF2F7A988E00351E1C /* PBXTextBookmark */ = 8B89D6CF2F7A988E00351E1C /* PBXTextBookmark */;
 			8BCB29EE2BE17662001B6E66 /* PBXTextBookmark */ = 8BCB29EE2BE17662001B6E66 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 8B02375E1D42B1C400E1E8C8 /* Source Control */;
@@ -62,17 +62,17 @@
 	};
 	2407DEB6089929BA00EB68BF /* BiquadHiLo.cpp */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {948, 2250}}";
-			sepNavSelRange = "{4151, 0}";
-			sepNavVisRange = "{3245, 1554}";
-			sepNavWindowFrame = "{{12, 47}, {895, 831}}";
+			sepNavIntBoundsRect = "{{0, 0}, {948, 2448}}";
+			sepNavSelRange = "{570, 0}";
+			sepNavVisRange = "{0, 1405}";
+			sepNavWindowFrame = "{{483, 47}, {895, 831}}";
 		};
 	};
 	245463B80991757100464AD3 /* BiquadHiLo.h */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {1110, 1404}}";
 			sepNavSelRange = "{2783, 0}";
-			sepNavVisRange = "{1121, 1725}";
+			sepNavVisRange = "{0, 1297}";
 			sepNavWindowFrame = "{{20, 47}, {895, 831}}";
 		};
 	};
@@ -86,9 +86,9 @@
 	};
 	24D8286F09A914000093AEF8 /* BiquadHiLoProc.cpp */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {669, 8424}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1245, 4770}}";
 			sepNavSelRange = "{6804, 0}";
-			sepNavVisRange = "{667, 276}";
+			sepNavVisRange = "{740, 203}";
 			sepNavWindowFrame = "{{31, 56}, {1018, 817}}";
 		};
 	};
@@ -106,9 +106,15 @@
 		isa = PBXCodeSenseManager;
 		indexTemplatePath = "";
 	};
-	8BCB29ED2BE17662001B6E66 /* PBXBookmark */ = {
-		isa = PBXBookmark;
+	8B89D6CF2F7A988E00351E1C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
 		fRef = 24D8286F09A914000093AEF8 /* BiquadHiLoProc.cpp */;
+		name = "BiquadHiLoProc.cpp: 116";
+		rLen = 0;
+		rLoc = 6804;
+		rType = 0;
+		vrLen = 203;
+		vrLoc = 740;
 	};
 	8BCB29EE2BE17662001B6E66 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;

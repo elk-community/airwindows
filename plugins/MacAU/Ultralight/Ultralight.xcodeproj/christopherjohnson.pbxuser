@@ -1,0 +1,159 @@
+// !$*UTF8*$!
+{
+	089C1669FE841209C02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeTarget = 8D01CCC60486CAD60068D4B7 /* Ultralight */;
+		codeSenseManager = 8BD3CCB9148830B20062E48C /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					208,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					252,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 811420194;
+			PBXWorkspaceStateSaveDate = 811420194;
+		};
+		perUserProjectItems = {
+			8B16B5E530540AC900C923D3 /* PlistBookmark */ = 8B16B5E530540AC900C923D3 /* PlistBookmark */;
+			8B1CD58F305D4A3500883DD0 /* PBXTextBookmark */ = 8B1CD58F305D4A3500883DD0 /* PBXTextBookmark */;
+			8B1CD590305D4A3500883DD0 /* PBXTextBookmark */ = 8B1CD590305D4A3500883DD0 /* PBXTextBookmark */;
+			8B604240305D4A1700913F84 /* PBXTextBookmark */ = 8B604240305D4A1700913F84 /* PBXTextBookmark */;
+			8B604241305D4A1700913F84 /* PBXTextBookmark */ = 8B604241305D4A1700913F84 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 8BD3CCB8148830B20062E48C /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8B16B5E530540AC900C923D3 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D01CCD10486CAD60068D4B7 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleName,
+		);
+		name = /Users/christopherjohnson/Desktop/airwindows/plugins/MacAU/Ultralight/Info.plist;
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	8B1CD58F305D4A3500883DD0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8BA05A660720730100365D66 /* Ultralight.cpp */;
+		name = "Ultralight.cpp: 270";
+		rLen = 0;
+		rLoc = 12272;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 0;
+	};
+	8B1CD590305D4A3500883DD0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8BC6025B073B072D006C4272 /* Ultralight.h */;
+		name = "Ultralight.h: 84";
+		rLen = 0;
+		rLoc = 3695;
+		rType = 0;
+		vrLen = 696;
+		vrLoc = 3638;
+	};
+	8B604240305D4A1700913F84 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8BA05A660720730100365D66 /* Ultralight.cpp */;
+		name = "Ultralight.cpp: 270";
+		rLen = 0;
+		rLoc = 12272;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 0;
+	};
+	8B604241305D4A1700913F84 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8BC6025B073B072D006C4272 /* Ultralight.h */;
+		name = "Ultralight.h: 86";
+		rLen = 0;
+		rLoc = 3695;
+		rType = 0;
+		vrLen = 1067;
+		vrLoc = 3638;
+	};
+	8BA05A660720730100365D66 /* Ultralight.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {642, 10404}}";
+			sepNavSelRange = "{12272, 0}";
+			sepNavVisRange = "{0, 0}";
+			sepNavWindowFrame = "{{122, 87}, {1095, 791}}";
+		};
+	};
+	8BA05A690720730100365D66 /* UltralightVersion.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1202, 1062}}";
+			sepNavSelRange = "{2909, 4}";
+			sepNavVisRange = "{0, 2610}";
+			sepNavWindowFrame = "{{613, 38}, {1249, 840}}";
+		};
+	};
+	8BC6025B073B072D006C4272 /* Ultralight.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {3333, 3420}}";
+			sepNavSelRange = "{3695, 0}";
+			sepNavVisRange = "{3638, 696}";
+			sepNavWindowFrame = "{{0, 482}, {776, 396}}";
+		};
+	};
+	8BD3CCB8148830B20062E48C /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8BD3CCB9148830B20062E48C /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8D01CCC60486CAD60068D4B7 /* Ultralight */ = {
+		activeExec = 0;
+	};
+}

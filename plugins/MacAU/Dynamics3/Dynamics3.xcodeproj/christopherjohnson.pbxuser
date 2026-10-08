@@ -49,51 +49,62 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 786918597;
-			PBXWorkspaceStateSaveDate = 786918597;
+			PBXPerProjectTemplateStateSaveDate = 803507896;
+			PBXWorkspaceStateSaveDate = 803507896;
 		};
 		perUserProjectItems = {
-			8B5AB2B22EE779AB00A3F512 /* PBXTextBookmark */ = 8B5AB2B22EE779AB00A3F512 /* PBXTextBookmark */;
-			8B5AB2B32EE779AB00A3F512 /* PBXTextBookmark */ = 8B5AB2B32EE779AB00A3F512 /* PBXTextBookmark */;
+			8B0CA33C2FCF61D400E05159 /* PBXTextBookmark */ = 8B0CA33C2FCF61D400E05159 /* PBXTextBookmark */;
+			8B1623B62FE47E9900EBA340 /* PBXTextBookmark */ = 8B1623B62FE47E9900EBA340 /* PBXTextBookmark */;
+			8B1625BE2FE48EBB00EBA340 /* PBXTextBookmark */ = 8B1625BE2FE48EBB00EBA340 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 8BD3CCB8148830B20062E48C /* Source Control */;
 		userBuildSettings = {
 		};
 	};
-	8B5AB2B22EE779AB00A3F512 /* PBXTextBookmark */ = {
+	8B0CA33C2FCF61D400E05159 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
-		fRef = 8BA05A660720730100365D66 /* Dynamics3.cpp */;
-		name = "Dynamics3.cpp: 240";
-		rLen = 1179;
-		rLoc = 10661;
+		fRef = 8BA05A690720730100365D66 /* Dynamics3Version.h */;
+		name = "Dynamics3Version.h: 54";
+		rLen = 0;
+		rLoc = 2907;
 		rType = 0;
-		vrLen = 241;
-		vrLoc = 10661;
+		vrLen = 300;
+		vrLoc = 3;
 	};
-	8B5AB2B32EE779AB00A3F512 /* PBXTextBookmark */ = {
+	8B1623B62FE47E9900EBA340 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 8BA05A660720730100365D66 /* Dynamics3.cpp */;
-		name = "Dynamics3.cpp: 240";
-		rLen = 1179;
-		rLoc = 10661;
+		name = "Dynamics3.cpp: 339";
+		rLen = 0;
+		rLoc = 15942;
 		rType = 0;
-		vrLen = 241;
-		vrLoc = 10661;
+		vrLen = 101;
+		vrLoc = 15073;
+	};
+	8B1625BE2FE48EBB00EBA340 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8BA05A660720730100365D66 /* Dynamics3.cpp */;
+		name = "Dynamics3.cpp: 339";
+		rLen = 0;
+		rLoc = 15942;
+		rType = 0;
+		vrLen = 25;
+		vrLoc = 15149;
 	};
 	8BA05A660720730100365D66 /* Dynamics3.cpp */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {975, 5508}}";
-			sepNavSelRange = "{10661, 1179}";
-			sepNavVisRange = "{10661, 241}";
-			sepNavWindowFrame = "{{-4, 38}, {742, 840}}";
+			sepNavIntBoundsRect = "{{0, 0}, {876, 6282}}";
+			sepNavSelRange = "{15942, 0}";
+			sepNavVisRange = "{15149, 25}";
+			sepNavWindowFrame = "{{2, 38}, {1230, 840}}";
 		};
 	};
 	8BA05A690720730100365D66 /* Dynamics3Version.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1056, 1062}}";
+			sepNavIntBoundsRect = "{{0, 0}, {390, 1134}}";
 			sepNavSelRange = "{2907, 0}";
-			sepNavVisRange = "{1699, 1271}";
-			sepNavWindowFrame = "{{15, 192}, {826, 681}}";
+			sepNavVisRange = "{3, 300}";
+			sepNavWindowFrame = "{{829, 108}, {826, 681}}";
 		};
 	};
 	8BA05A7F072073D200365D66 /* AUBase.cpp */ = {
@@ -105,10 +116,10 @@
 	};
 	8BC6025B073B072D006C4272 /* Dynamics3.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1146, 2826}}";
-			sepNavSelRange = "{5073, 237}";
-			sepNavVisRange = "{4431, 1012}";
-			sepNavWindowFrame = "{{-5, 58}, {565, 799}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 2538}}";
+			sepNavSelRange = "{3234, 0}";
+			sepNavVisRange = "{4438, 992}";
+			sepNavWindowFrame = "{{39, 69}, {909, 808}}";
 		};
 	};
 	8BD3CCB8148830B20062E48C /* Source Control */ = {

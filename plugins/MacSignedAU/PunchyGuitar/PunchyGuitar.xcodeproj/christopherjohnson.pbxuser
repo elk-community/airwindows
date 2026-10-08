@@ -49,17 +49,28 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 769342354;
-			PBXWorkspaceStateSaveDate = 769342354;
+			PBXPerProjectTemplateStateSaveDate = 808425906;
+			PBXWorkspaceStateSaveDate = 808425906;
 		};
 		perUserProjectItems = {
+			8B33D5B72DF3AC0A0044A4FF /* PBXTextBookmark */ = 8B33D5B72DF3AC0A0044A4FF /* PBXTextBookmark */;
 			8B8448722DDB4044001CED69 /* PlistBookmark */ = 8B8448722DDB4044001CED69 /* PlistBookmark */;
-			8B8448732DDB4044001CED69 /* PBXTextBookmark */ = 8B8448732DDB4044001CED69 /* PBXTextBookmark */;
-			8B8448742DDB4044001CED69 /* PBXTextBookmark */ = 8B8448742DDB4044001CED69 /* PBXTextBookmark */;
+			8B8FB681302F9F6300C08005 /* PBXTextBookmark */ = 8B8FB681302F9F6300C08005 /* PBXTextBookmark */;
+			8B8FB682302F9F6300C08005 /* PBXTextBookmark */ = 8B8FB682302F9F6300C08005 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 8BD3CCB8148830B20062E48C /* Source Control */;
 		userBuildSettings = {
 		};
+	};
+	8B33D5B72DF3AC0A0044A4FF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8BA05A690720730100365D66 /* PunchyGuitarVersion.h */;
+		name = "PunchyGuitarVersion.h: 54";
+		rLen = 0;
+		rLoc = 2927;
+		rType = 0;
+		vrLen = 250;
+		vrLoc = 2739;
 	};
 	8B8448722DDB4044001CED69 /* PlistBookmark */ = {
 		isa = PlistBookmark;
@@ -71,50 +82,50 @@
 		);
 		name = /Users/christopherjohnson/Desktop/airwindows/plugins/MacAU/PunchyGuitar/Info.plist;
 		rLen = 0;
-		rLoc = 9223372036854775807;
+		rLoc = 9223372036854775808;
 	};
-	8B8448732DDB4044001CED69 /* PBXTextBookmark */ = {
+	8B8FB681302F9F6300C08005 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 8BC6025B073B072D006C4272 /* PunchyGuitar.h */;
 		name = "PunchyGuitar.h: 66";
 		rLen = 0;
 		rLoc = 3313;
 		rType = 0;
-		vrLen = 498;
-		vrLoc = 3080;
+		vrLen = 47;
+		vrLoc = 3268;
 	};
-	8B8448742DDB4044001CED69 /* PBXTextBookmark */ = {
+	8B8FB682302F9F6300C08005 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 8BC6025B073B072D006C4272 /* PunchyGuitar.h */;
 		name = "PunchyGuitar.h: 66";
 		rLen = 0;
 		rLoc = 3313;
 		rType = 0;
-		vrLen = 498;
-		vrLoc = 3080;
+		vrLen = 47;
+		vrLoc = 3268;
 	};
 	8BA05A660720730100365D66 /* PunchyGuitar.cpp */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1098, 6750}}";
-			sepNavSelRange = "{14699, 54}";
-			sepNavVisRange = "{13541, 1270}";
-			sepNavWindowFrame = "{{640, 41}, {1145, 837}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1092, 7506}}";
+			sepNavSelRange = "{15734, 727}";
+			sepNavVisRange = "{14665, 2337}";
+			sepNavWindowFrame = "{{12, 38}, {1056, 840}}";
 		};
 	};
 	8BA05A690720730100365D66 /* PunchyGuitarVersion.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1092, 1062}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1056, 1206}}";
 			sepNavSelRange = "{2927, 0}";
-			sepNavVisRange = "{1658, 1332}";
+			sepNavVisRange = "{2739, 250}";
 			sepNavWindowFrame = "{{15, 188}, {1139, 685}}";
 		};
 	};
 	8BC6025B073B072D006C4272 /* PunchyGuitar.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1029, 3294}}";
+			sepNavIntBoundsRect = "{{0, 0}, {482, 3204}}";
 			sepNavSelRange = "{3313, 0}";
-			sepNavVisRange = "{3080, 498}";
-			sepNavWindowFrame = "{{688, 77}, {749, 800}}";
+			sepNavVisRange = "{3268, 47}";
+			sepNavWindowFrame = "{{17, 53}, {749, 800}}";
 		};
 	};
 	8BD3CCB8148830B20062E48C /* Source Control */ = {

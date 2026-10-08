@@ -150,7 +150,12 @@ public:
 		
         virtual void		Reset();
 		
-		private: 
+		private:
+		enum {
+			bip_dvA, bip_dvB, bip_dvC, bip_dvD, bip_pvA, bip_pvB, bip_pvC, bip_pvD,
+			bip_total //each distortion section can have one of these, it stacks well
+		}; //not remotely elliptic BLEP antialiasing, instead it is derivative BIP :D
+		double bip[bip_total][12];		
 		double angS[18][12];
 		double angA[18][12];
 		double angG[12];

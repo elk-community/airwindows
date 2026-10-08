@@ -49,12 +49,12 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 786872345;
-			PBXWorkspaceStateSaveDate = 786872345;
+			PBXPerProjectTemplateStateSaveDate = 808425894;
+			PBXWorkspaceStateSaveDate = 808425894;
 		};
 		perUserProjectItems = {
-			8B670B652E05E25600AB1898 /* PBXTextBookmark */ = 8B670B652E05E25600AB1898 /* PBXTextBookmark */;
-			8BE3CAFB2EE6B956004F72BD /* PBXTextBookmark */ = 8BE3CAFB2EE6B956004F72BD /* PBXTextBookmark */;
+			8B7F1669302F707B009596C1 /* PBXTextBookmark */ = 8B7F1669302F707B009596C1 /* PBXTextBookmark */;
+			8B8FB6B1302FB3CA00C08005 /* PBXTextBookmark */ = 8B8FB6B1302FB3CA00C08005 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 8B02375E1D42B1C400E1E8C8 /* Source Control */;
 		userBuildSettings = {
@@ -62,18 +62,18 @@
 	};
 	2407DEB6089929BA00EB68BF /* PunchyGuitar.cpp */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {848, 3582}}";
-			sepNavSelRange = "{577, 0}";
-			sepNavVisRange = "{6460, 1845}";
-			sepNavWindowFrame = "{{12, 47}, {895, 831}}";
+			sepNavIntBoundsRect = "{{0, 0}, {966, 4284}}";
+			sepNavSelRange = "{723, 102}";
+			sepNavVisRange = "{247, 936}";
+			sepNavWindowFrame = "{{545, 47}, {895, 831}}";
 		};
 	};
 	245463B80991757100464AD3 /* PunchyGuitar.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1110, 1890}}";
-			sepNavSelRange = "{2703, 0}";
-			sepNavVisRange = "{2553, 631}";
-			sepNavWindowFrame = "{{20, 47}, {895, 831}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1110, 2016}}";
+			sepNavSelRange = "{2658, 357}";
+			sepNavVisRange = "{2553, 929}";
+			sepNavWindowFrame = "{{30, 47}, {895, 831}}";
 		};
 	};
 	24A2FFDB0F90D1DD003BB5A7 /* audioeffectx.cpp */ = {
@@ -86,10 +86,10 @@
 	};
 	24D8286F09A914000093AEF8 /* PunchyGuitarProc.cpp */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {554, 8406}}";
-			sepNavSelRange = "{14813, 0}";
-			sepNavVisRange = "{976, 162}";
-			sepNavWindowFrame = "{{-3, 65}, {1194, 813}}";
+			sepNavIntBoundsRect = "{{0, 0}, {554, 9792}}";
+			sepNavSelRange = "{19670, 0}";
+			sepNavVisRange = "{1077, 61}";
+			sepNavWindowFrame = "{{22, 38}, {1020, 840}}";
 		};
 	};
 	8B02375E1D42B1C400E1E8C8 /* Source Control */ = {
@@ -106,25 +106,25 @@
 		isa = PBXCodeSenseManager;
 		indexTemplatePath = "";
 	};
-	8B670B652E05E25600AB1898 /* PBXTextBookmark */ = {
+	8B7F1669302F707B009596C1 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 24D8286F09A914000093AEF8 /* PunchyGuitarProc.cpp */;
-		name = "PunchyGuitarProc.cpp: 365";
+		name = "PunchyGuitarProc.cpp: 420";
 		rLen = 0;
-		rLoc = 14272;
+		rLoc = 19670;
 		rType = 0;
-		vrLen = 203;
-		vrLoc = 935;
+		vrLen = 104;
+		vrLoc = 1034;
 	};
-	8BE3CAFB2EE6B956004F72BD /* PBXTextBookmark */ = {
+	8B8FB6B1302FB3CA00C08005 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 24D8286F09A914000093AEF8 /* PunchyGuitarProc.cpp */;
-		name = "PunchyGuitarProc.cpp: 402";
+		name = "PunchyGuitarProc.cpp: 452";
 		rLen = 0;
-		rLoc = 14813;
+		rLoc = 19670;
 		rType = 0;
-		vrLen = 162;
-		vrLoc = 976;
+		vrLen = 61;
+		vrLoc = 1077;
 	};
 	8D01CCC60486CAD60068D4B7 /* PunchyGuitar */ = {
 		activeExec = 0;

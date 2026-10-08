@@ -55,14 +55,14 @@
 
 // parameters
 static const float kDefaultValue_ParamA = 1.0;
-static const float kDefaultValue_ParamB = 0.5;
-static const float kDefaultValue_ParamC = 0.5;
-static const float kDefaultValue_ParamD = 0.0;
+static const float kDefaultValue_ParamB = 0.382;
+static const float kDefaultValue_ParamC = 0.618;
+static const float kDefaultValue_ParamD = 1.0;
 
 static CFStringRef kParameterAName = CFSTR("Thresh");
 static CFStringRef kParameterBName = CFSTR("Attack");
 static CFStringRef kParameterCName = CFSTR("Release");
-static CFStringRef kParameterDName = CFSTR("Gate");
+static CFStringRef kParameterDName = CFSTR("Inv/Wet");
 
 enum {
 	kParam_A =0,
@@ -124,12 +124,11 @@ public:
 		bez_C,
 		bez_Ctrl,
 		bez_cycle,
+		bez_min,
+		bez_comp,
 		bez_total
 	}; //the new undersampling. bez signifies the bezier curve reconstruction
 	double bezComp[bez_total];
-	double bezMax;
-	double bezMin;
-	double bezGate;
 	//Dynamics3
 	
 	uint32_t fpdL;

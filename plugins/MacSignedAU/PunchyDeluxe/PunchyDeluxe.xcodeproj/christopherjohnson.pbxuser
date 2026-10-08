@@ -49,15 +49,15 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 772137586;
-			PBXWorkspaceStateSaveDate = 772137586;
+			PBXPerProjectTemplateStateSaveDate = 808427672;
+			PBXWorkspaceStateSaveDate = 808427672;
 		};
 		perUserProjectItems = {
 			8B65E1DF2E05BCBE00CB683A /* PlistBookmark */ = 8B65E1DF2E05BCBE00CB683A /* PlistBookmark */;
 			8B670B492E05E0D800AB1898 /* PBXTextBookmark */ = 8B670B492E05E0D800AB1898 /* PBXTextBookmark */;
 			8B670B4A2E05E0D800AB1898 /* PBXTextBookmark */ = 8B670B4A2E05E0D800AB1898 /* PBXTextBookmark */;
-			8B670B8D2E05E3F800AB1898 /* PBXTextBookmark */ = 8B670B8D2E05E3F800AB1898 /* PBXTextBookmark */;
-			8B670B8E2E05E3F800AB1898 /* PBXTextBookmark */ = 8B670B8E2E05E3F800AB1898 /* PBXTextBookmark */;
+			8B8FB6B3302FB3CB00C08005 /* PBXTextBookmark */ = 8B8FB6B3302FB3CB00C08005 /* PBXTextBookmark */;
+			8B8FB6B4302FB3CB00C08005 /* PBXTextBookmark */ = 8B8FB6B4302FB3CB00C08005 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 8BD3CCB8148830B20062E48C /* Source Control */;
 		userBuildSettings = {
@@ -80,7 +80,7 @@
 		fRef = 8BC6025B073B072D006C4272 /* PunchyDeluxe.h */;
 		name = "PunchyDeluxe.h: 157";
 		rLen = 0;
-		rLoc = 6140;
+		rLoc = 6434;
 		rType = 0;
 		vrLen = 190;
 		vrLoc = 6075;
@@ -90,52 +90,52 @@
 		fRef = 8BA05A660720730100365D66 /* PunchyDeluxe.cpp */;
 		name = "PunchyDeluxe.cpp: 322";
 		rLen = 0;
-		rLoc = 14357;
+		rLoc = 16113;
 		rType = 0;
 		vrLen = 207;
 		vrLoc = 14454;
 	};
-	8B670B8D2E05E3F800AB1898 /* PBXTextBookmark */ = {
+	8B8FB6B3302FB3CB00C08005 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 8BA05A690720730100365D66 /* PunchyDeluxeVersion.h */;
 		name = "PunchyDeluxeVersion.h: 54";
 		rLen = 0;
 		rLoc = 2925;
 		rType = 0;
-		vrLen = 250;
-		vrLoc = 2738;
+		vrLen = 134;
+		vrLoc = 2846;
 	};
-	8B670B8E2E05E3F800AB1898 /* PBXTextBookmark */ = {
+	8B8FB6B4302FB3CB00C08005 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
-		fRef = 8BA05A690720730100365D66 /* PunchyDeluxeVersion.h */;
-		name = "PunchyDeluxeVersion.h: 54";
+		fRef = 8BA05A660720730100365D66 /* PunchyDeluxe.cpp */;
+		name = "PunchyDeluxe.cpp: 347";
 		rLen = 0;
-		rLoc = 2925;
+		rLoc = 16113;
 		rType = 0;
-		vrLen = 250;
-		vrLoc = 2738;
+		vrLen = 146;
+		vrLoc = 14576;
 	};
 	8BA05A660720730100365D66 /* PunchyDeluxe.cpp */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {920, 6516}}";
-			sepNavSelRange = "{14417, 0}";
-			sepNavVisRange = "{10831, 1456}";
-			sepNavWindowFrame = "{{777, 58}, {967, 804}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1092, 6858}}";
+			sepNavSelRange = "{16113, 0}";
+			sepNavVisRange = "{14576, 146}";
+			sepNavWindowFrame = "{{171, 86}, {1214, 792}}";
 		};
 	};
 	8BA05A690720730100365D66 /* PunchyDeluxeVersion.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1038, 1206}}";
+			sepNavIntBoundsRect = "{{0, 0}, {482, 1188}}";
 			sepNavSelRange = "{2925, 0}";
-			sepNavVisRange = "{2738, 250}";
+			sepNavVisRange = "{2846, 134}";
 			sepNavWindowFrame = "{{15, 69}, {967, 804}}";
 		};
 	};
 	8BC6025B073B072D006C4272 /* PunchyDeluxe.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1146, 3384}}";
-			sepNavSelRange = "{6140, 0}";
-			sepNavVisRange = "{5302, 963}";
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 3402}}";
+			sepNavSelRange = "{6344, 25}";
+			sepNavVisRange = "{5519, 1040}";
 			sepNavWindowFrame = "{{38, 48}, {967, 804}}";
 		};
 	};

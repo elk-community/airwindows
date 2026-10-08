@@ -225,8 +225,8 @@
 	<array/>
 	<key>PerspectiveWidths</key>
 	<array>
-		<integer>810</integer>
-		<integer>810</integer>
+		<integer>573</integer>
+		<integer>573</integer>
 	</array>
 	<key>Perspectives</key>
 	<array>
@@ -324,7 +324,7 @@
 							<real>185</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>47 373 573 505 0 0 1440 878 </string>
+						<string>873 291 573 505 0 0 1440 878 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -352,10 +352,11 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>8B5AB2B32EE779AB00A3F512</string>
+										<string>8BD498C02F92E857006A3C78</string>
 										<key>history</key>
 										<array>
-											<string>8B5AB2B22EE779AB00A3F512</string>
+											<string>8BD498BE2F92E857006A3C78</string>
+											<string>8BD498BF2F92E857006A3C78</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -369,18 +370,18 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {366, 136}}</string>
+								<string>{{0, 0}, {366, 138}}</string>
 								<key>RubberWindowFrame</key>
-								<string>47 373 573 505 0 0 1440 878 </string>
+								<string>873 291 573 505 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>136pt</string>
+							<string>138pt</string>
 						</dict>
 						<dict>
 							<key>Proportion</key>
-							<string>323pt</string>
+							<string>321pt</string>
 							<key>Tabs</key>
 							<array>
 								<dict>
@@ -394,9 +395,9 @@
 									<key>GeometryConfiguration</key>
 									<dict>
 										<key>Frame</key>
-										<string>{{10, 27}, {366, 296}}</string>
+										<string>{{10, 27}, {366, 294}}</string>
 										<key>RubberWindowFrame</key>
-										<string>47 373 573 505 0 0 1440 878 </string>
+										<string>873 291 573 505 0 0 1440 878 </string>
 									</dict>
 									<key>Module</key>
 									<string>XCDetailModule</string>
@@ -450,7 +451,7 @@
 									<key>GeometryConfiguration</key>
 									<dict>
 										<key>Frame</key>
-										<string>{{10, 27}, {603, 414}}</string>
+										<string>{{10, 27}, {366, 359}}</string>
 									</dict>
 									<key>Module</key>
 									<string>PBXBuildResultsModule</string>
@@ -478,11 +479,11 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>8B5AB2B42EE779AB00A3F512</string>
+				<string>8BD498C12F92E857006A3C78</string>
 				<string>1CA23ED40692098700951B8B</string>
-				<string>8B5AB2B52EE779AB00A3F512</string>
+				<string>8BD498C22F92E857006A3C78</string>
 				<string>8B17F9862ECF53930095B409</string>
-				<string>8B5AB2B62EE779AB00A3F512</string>
+				<string>8BD498C32F92E857006A3C78</string>
 				<string>1CA23EDF0692099D00951B8B</string>
 				<string>1CA23EE00692099D00951B8B</string>
 				<string>1CA23EE10692099D00951B8B</string>
@@ -635,7 +636,7 @@
 	<key>StatusbarIsVisible</key>
 	<true/>
 	<key>TimeStamp</key>
-	<real>786921899.91366303</real>
+	<real>798156887.73614299</real>
 	<key>ToolbarConfigUserDefaultsMinorVersion</key>
 	<string>2</string>
 	<key>ToolbarDisplayMode</key>
@@ -652,11 +653,11 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>8B5AB2B72EE779AB00A3F512</string>
+		<string>8BD498C42F92E857006A3C78</string>
 		<string>/Users/christopherjohnson/Desktop/airwindows/plugins/MacAU/Dynamics3/Dynamics3.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>47 373 573 505 0 0 1440 878 </string>
+	<string>873 291 573 505 0 0 1440 878 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>

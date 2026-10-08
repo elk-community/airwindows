@@ -15,39 +15,39 @@ Bass: DubSub2, OrbitKick, Elliptical, Hermepass, BassKit, DubCenter, DubSub, Flo
 
 Biquads: BiquadStack, BiquadNonLin, BiquadHiLo, BiquadPlus, Biquad, BiquadDouble, BiquadOneHalf, BiquadTriple, Biquad2
 
-Brightness: Air4, Air3, PlatinumSlew, DeBess, GoldenSlew, Sinew, SlewSonic, Acceleration2, DeEss, Smooth, EverySlew, Slew3, Slew2, Slew, Air2, Air, PurestAir, Acceleration, DeHiss, Hypersonic, HypersonX, Ultrasonic, UltrasonicLite, UltrasonicMed, UltrasonX
+Brightness: Air4, Air3, Slew4, PlatinumSlew, DeBess, GoldenSlew, Sinew, SlewSonic, Acceleration2, DeEss, Smooth, EverySlew, Slew3, Slew2, Slew, Air2, Air, PurestAir, Acceleration, DeHiss, Hypersonic, HypersonX, Ultrasonic, UltrasonicLite, UltrasonicMed, UltrasonX
 
-Clipping: ClipOnly2, ADClip8, ClipSoftly, OneCornerClip, ADClip7, AQuickVoiceClip, ClipOnly, FinalClip
+Clipping: ADClip9, ClipOnly3, ADClip8, ClipOnly2, ClipSoftly, OneCornerClip, ADClip7, AQuickVoiceClip, ClipOnly, FinalClip
 
 Consoles: Console9Buss, Console9Channel, ConsoleLABuss, ConsoleLAChannel, ConsoleMCBuss, ConsoleMCChannel, ConsoleMDBuss, ConsoleMDChannel, Console8LiteChannel, Console8LiteBuss, Console8BussHype, Console8BussIn, Console8BussOut, Console8ChannelHype, Console8ChannelIn, Console8ChannelOut, Console8SubHype, Console8SubIn, Console8SubOut, Console0Channel, Console0Buss, PurestConsole3Buss, PurestConsole3Channel, PurestConsole2Buss, PurestConsole2Channel, Console7Buss, Console7Channel, Console7Cascade, Console7Crunch, PurestConsoleBuss, PurestConsoleChannel,Console6Buss, Console6Channel, PDBuss, PDChannel, Console5Buss, Console5Channel, Console5DarkCh, C5RawBuss, C5RawChannel, AtmosphereBuss, AtmosphereChannel, Console4Buss, Console4Channel, EveryConsole
 
-Distortion: Distortion, Edge, Dirt, Mackity, ZOutputStage, Density2, Zoom, Density, Drive, Loud, Hard Vacuum, HighImpact, MultiBandDistortion
+Distortion: Distortion, Edge, Dirt, Mackity, Density3, ZOutputStage, Density2, Zoom, Density, Drive, Loud, Hard Vacuum, HighImpact, MultiBandDistortion
 
 Dithers: Dark, PaulWide, PaulDither, TPDFWide, TPDFDither, NotJustAnotherDither, NotJustAnotherCD, Beam, TapeDither, SpatializeDither, VinylDither, DoublePaul, Ditherbox, BuildATPDF, NodeDither, StudioTan, DitherMeTimbers, DitherMeDiskers, RawTimbers, RawGlitters, NaturalizeDither, HighGlossDither, DitherFloat
 
-Dynamics: Dynamics2, Pressure6, BeziComp, Pop3, Pop2, Pressure5, StoneFireComp, Dynamics, Pop, DigitalBlack, Logical4, VariMu, ButterComp2, curve, Overheads, Recurve, Pyewacket, BlockParty, SoftGate, Thunder, Compresaturator, DrumSlam, ButterComp, BrassRider, Point, Gatelope, PodcastDeluxe, Podcast, Swell, PurestSquish, Pressure4, Surge, SurgeTide
+Dynamics: Dynamics3, Pressure6, Dynamics2, BeziComp, Pop3, Pop2, X2Buss, Pressure5, StoneFireComp, Dynamics, Pop, DigitalBlack, Logical4, VariMu, ButterComp2, curve, Overheads, Recurve, Pyewacket, BlockParty, SoftGate, Thunder, Compresaturator, DrumSlam, ButterComp, BrassRider, Point, Gatelope, PodcastDeluxe, Podcast, Swell, PurestSquish, Pressure4, Surge, SurgeTide
 
 Effects: TakeCare, RingModulator, Dubly3, Dubly2, GalacticVibe, CloudCoat, Disintegrate, Fracture2, Dubly, Pafnuty2, PitchNasty, Trianglizer, ShortBuss, GuitarConditioner, Aura, TremoSquare, Tremolo, GlitchShifter, Gringer, Exciter, Energy2, Energy, Facet, Fracture, PowerSag2, PowerSag, Preponderant, Nikola
 
-Filter: SmoothEQ3, PearEQ, FatEQ, SmoothEQ2, BezEQ2, SmoothEQ, Parametric, Silken, Stonefire, AngleEQ, AngleFilter, Isolator3, BezEQ, Baxandall2, Pear2, Capacitor2, Distance3, Pear, ResEQ2, SubTight, CStrip2, Weight, Isolator2, Kalman, PrimeFIR, Holt2, Holt, ToneSlant, AverMatrix, Average, MackEQ, Hull2, Baxandall, Hull, EQ, Capacitor, Isolator, TapeFat, ResEQ, Lowpass2, Highpass2, Distance, Distance2, Lowpass, Highpass
+Filter: FastDistance, BezEQ3, Suzan, SmoothEQ3, PearEQ, PearLiteEQ, RetroBass, FatEQ, SmoothEQ2, BezEQ2, SmoothEQ, Parametric, Dattorro, Donut, Silken, Stonefire, AngleEQ, AngleFilter, Isolator3, BezEQ, Baxandall3, Baxandall2, Baxandall, Pear2, Capacitor2, Distance3, Pear, ResEQ2, SubTight, CStrip2, Weight, Isolator2, Kalman, PrimeFIR, Holt2, Holt, ToneSlant, AverMatrix, Average, MackEQ, Hull2, Hull, EQ, Capacitor, Isolator, TapeFat, ResEQ, Lowpass2, Highpass2, Distance, Distance2, Lowpass, Highpass
 
-Lo-Fi: DeBez, HipCrush, Flutter2, DeRez3, Pockey2, CrunchyGrooveWear, GrooveWear, Pockey, Flutter, DeRez2, BitGlitter, DeRez, TapeBias, ChromeOxide, Cojones, Vibrato, Bite, Deckwrecka, DustBunny
+Lo-Fi: DeRez4, DeBez, HipCrush, Flutter2, DeRez3, Pockey2, CrunchyGrooveWear, GrooveWear, Pockey, Flutter, DeRez2, BitGlitter, DeRez, TapeBias, ChromeOxide, Cojones, Vibrato, Bite, Deckwrecka, DustBunny
 
 Noise: DeNoise, Noise, Texturize, TexturizeMS, VoiceOfTheStarship, DarkNoise, ElectroHat, Silhouette, TapeDust
 
-Reverb: kWoodRoom, kStation, kGuitarHall2, kCathedral5, VerbTiny, VerbThic, kAlienSpaceship, kCathedral4, kBeyond, VerbSixes, kCosmos, Galactic3, kCathedral3, kPlate140, kPlate240, CreamCoat, kGuitarHall, kPlateD, kPlateB, kPlateA, kPlateC, CrunchCoat, kCathedral2, Verbity2, Galactic, Galactic2, Verbity, Chamber2, Chamber, Infinity2, NonlinearSpace, kCathedral, Infinity, MatrixVerb, PocketVerbs, Reverb
+Reverb: kRockstar2, kCyberCity, kWoodRoom, kStation, kGuitarHall2, kCathedral5, VerbTiny, VerbThic, kAlienSpaceship, kCathedral4, kBeyond, VerbSixes, kCosmos, Galactic3, kCathedral3, kPlate140, kPlate240, CreamCoat, kRockstar, kGuitarHall, kPlateD, kPlateB, kPlateA, kPlateC, CrunchCoat, kCathedral2, Verbity2, Galactic, Galactic2, Ultralight2, Verbity, Chamber2, Chamber, Infinity2, NonlinearSpace, kCathedral, Infinity, MatrixVerb, PocketVerbs, Reverb, Ultralight
 
-Saturation: PurestSaturation, SquareRoot, Hypersoft, Creature, Huge, NCSeventeen, Tube2, Tube, Spiral2, PurestDrive, Focus, Mojo, Dyno, Spiral, UnBox, Desk4, Righteous4
+Saturation: PurestSaturation, SquareRoot, Hypersoft, Longhand, Creature, Huge, NCSeventeen, Tube2, Tube, Spiral2, PurestDrive, Focus, Mojo, Dyno, Spiral, UnBox, Desk4, Righteous4
 
 Stereo: Srsly3, Srsly2, Srsly, SweetWide, Wider, StereoFX, ToVinyl4, AutoPan, LRFlipTimer, MSFlipTimer, Sidepass, SideDull
 
-Subtlety: Mastering2, Discontapeity, Mastering, Discontinuity, Hype, Shape, Inflamer, Sweeten, PurestWarm2, PurestWarm, Coils2, Interstage, PhaseNudge, Remap, SingleEndedTriode, Coils, Desk, TransDesk, TubeDesk
+Subtlety: PurestWarm3, Mastering2, Discontapeity, Mastering, Discontinuity, Hype, Shape, Inflamer, Sweeten, PurestWarm2, PurestWarm, Coils2, Interstage, PhaseNudge, Remap, SingleEndedTriode, Coils, Desk, TransDesk, TubeDesk
 
-Tape: TapeHack2, TapeHack, ToTape8, ToTape7, ToTape6, FromTape, Tape, IronOxideClassic2, IronOxide5, ToTape5, IronOxideClassic
+Tape: ToTape9, TapeHack2, ToTape8, ToTape7, ToTape6, FromTape, TapeHack, Tape, IronOxideClassic2, IronOxide5, ToTape5, IronOxideClassic
 
-Tone Color: BussColors4, Channel9, Apicolypse, Neverland, Elation, Calibre, Cider, Crystal, Precious, Luxor, Channel8, Channel7, Channel6, Channel5, Channel4
+Tone Color: ChannelX, WoodenBox, BussColors4, Channel9, Apicolypse, Neverland, Elation, Calibre, Cider, Crystal, Precious, Luxor, Channel8, Channel7, Channel6, Channel5, Channel4
 
-Utility: SoftClock2, SoftClock, BitShiftPan, BitShiftGain, PurestGain, PurestDualPan, PurestFade, Monitoring3, Monitoring2, Monitoring, EveryTrim, HermeTrim, DubPlate2, DubPlate, CansAW, Cans, SlewOnly, SubsOnly, PeaksOnly, Golem, DCVoltage, LRConvolve2, LRConvolve, EdIsDim, MidSide, uLawEncode, uLawDecode, RightoMono, LeftoMono, Balanced, Flipity, MoNoam, VoiceTrick, DeCrackle, ContentHideD
+Utility: SoftClock3, SoftClock2, SoftClock, BitShiftPan, BitShiftGain, PurestGain, PurestDualPan, BitDualPan, PurestFade, Monitoring3, Monitoring2, Monitoring, EveryTrim, HermeTrim, DubPlate2, DubPlate, CansAW, Cans, SlewOnly, SubsOnly, PeaksOnly, Golem, DCVoltage, LRConvolve3, LRConvolve2, LRConvolve, EdIsDim, MidSide, uLawEncode, uLawDecode, RightoMono, LeftoMono, Balanced, Flipity, MoNoam, VoiceTrick, DeCrackle, ContentHideD
 
 XYZ Filters: ZAcidLowpass, ZBandpass2, ZHighpass2, ZLowpass2, ZNotch2, ZRegion2, ZBandpass, ZHighpass, ZLowpass, ZNotch, ZRegion, YBandpass, YNotBandpass, YHighpass, YNotHighpass, YLowpass, YNotLowpass, YNotch, YNotNotch, XBandpass. XHighpass, XLowpass, XNotch, XRegion
 
@@ -90,7 +90,7 @@ The last mode is Clip Only, and rather than selecting the various algorithm outp
 
 So my recommendation in 2017 heading to 2018, is to use ADClip7 in gain-matched mode, to keep that ‘true peak’ measurement within the Mastered For iTunes requirements. I’m sure not everybody will stick to that, but I’m happy to say it is actually quite good for doing that, and if people want to smash stuff with it and enjoy the bass thud, that’s their affair. Remember a clipper makes stuff dynamic and punchy, not ‘flattened out’: use a limiter if you need dynamically flat, or perhaps both. In this modern era of replay gain, I’m going to suggest that dynamic and punchy is where it’s at. Learn the lessons of the LUFS meter! They’re available to us all, now.
 
-############ ADClip8 is the ultimate Airwindows loudenator/biggenator.
+############ ADClip8 is a stacked-up Airwindows loudenator based on ClipOnly2.
 
 The last time we saw an Airwindows ADClip, the full version rather than a neat and tidy stripped-down version, was October 8… of 2017. It's been more than six years since the king of loudenators saw an update, in part because ClipOnly got followed by ClipOnly2, which was such a good high-sample-rate clipper that it was all I needed for years. ClipOnly2 is still the cleanest, purest way to take small amounts of peak clipping to your signal: it's great as a safety clip.
 
@@ -107,6 +107,18 @@ The interesting part is how all this affects intersample peaking. Because the pr
 I would say don't use this for evil but who am I kidding. If you beat everyone with 'competitive loudness' this way, please never expect me to listen to what you did, I'll be hiding under my bed, regretting everything. :)
 
 For what it's worth, 'Apotheosis' mode should also be a very nice way to do extremely moderate transparent clipping of challenging material: ClipOnly2 will still be more transparent but only sounds like a slightly brighter version of ADClip8 Normal mode. Apotheosis mode simply does more and I wouldn't blame anybody for preferring it. Hope you like ADClip8!
+
+############ ADClip9 is the ClipOnly3 version of a loudenator/biggenator.
+
+Update time! As promised, I'm putting out ClipOnly3 as an ADClip (the fundamental concepts are still ADClip, so that makes this ADClip9.)
+
+Multiple things have changed since ADClip8, more than two years ago. The way this one works there's no benefit to stacking up instances, so the colorful mode names like 'Apocalypse' go by the wayside… but more useful things in ADClip are retained or even expanded.
+
+The three modes are Boost, Match, and ClipOnly. That means you've got a 'pure loudenate' setting, a 'level matched' setting with its own dB-measured control (which kept me up late at night rebuilding everything for the Nth time because it applied the correct amount, but wasn't SHOWING the relevant dB in the interface) and a setting that's silent until you start clipping and then shows the delta: this one can be used if you're looking to not grind against musical content but only transient spikes.
+
+The remaining controls are Noise and Ceiling, and technically they're both thresholds. They are NOT measured in dB, they're made to give subtler and subtler control as you go nearer to clipping directly at 0dB. The default settings of 0.7 and 0.75 closely match what ClipOnly3 does, which gets intersample peaks as close to 0 as I dared. If you lower Noise, what you're doing is hitting the 'transition to noise' threshold sooner, without affecting the hard clip limit. If you lower Ceiling, you're lowering the hard clip limit. You'll probably end up moving both, but if you do it's up to you to find your own balance point. Don't expect it to become a 'replace the audio with noise and clip the rest' plugin: Silhouette might be your best bet for that, ADClip9 is still the Airwindows take on 'softening the edges of clips with noise' as found in ClipOnly3.
+
+It's been a couple years since I advanced the state of the art in 'unreasonable loudenation' and let people get their hands dirtier than with ClipOnly (which is always designed to be a transparent safety clipper with no controls that happens to behave perfectly.) So here you go, with a bit of luck this'll hold people while I work on the opposite extremes of dynamics :)
 
 ############ ADT is a double short delay tap with saturation.
 
@@ -325,6 +337,28 @@ But there's nothing natural about the cranked-up 24dB boosts and cuts you can no
 
 This is Baxandall in the form that I will need it, for doing things with. But since it's Airwindows, you can use it too. And you can still use the original Baxandall, that's not going anywhere and has its own merits. Baxandall2 is just… more, at any cost, no holds barred. Hope you like it.
 
+############ Baxandall3 is for new tone colors.
+
+The new Baxandall combines elements of Baxandall2, with things I'd left behind in Baxandall the original, to produce something that has tone colors which haven't been heard before.
+
+The catch is, it's because people don't go for these tone colors, or know how to get them, or what to do with them if they had them. But when has that ever stopped us? This could be your lucky day (or, a big waste of time :) )
+
+The new Baxandall adopts the technique from its predecessor, letting you apply larger boosts and cuts, and sweeping the frequencies so you're accentuating the extremes when you get extra aggressive. It's based on Bessel filter slopes, but it brings back interleaving (meaning that it'll take on odd and interesting flavors when you get aggressive with the highs, and it can only tilt so far).
+
+But most of all, it brings back the Console processing (tweaked for maximum sonic density) and it does it in a strange, backwards way.
+
+If you apply slight boosts, the loudness goes up… INSIDE the processing. This is the same as if you were playing with the DAW faders in a Console mix. It's 'Doing It Wrong', but wrong on purpose. What happens when you do this basic, fundamental thing wrong?
+
+Firstly, the filter becomes hypersensitive to near-flat settings. If you boost, you're not just increasing that frequency's level, you're also pushing it harder into the 'anti-saturation' and getting that much hotter a result. The calibration's off. It'll be expanded, peakier, more dynamic.
+
+If you cut, you're pulling it back before it reaches 'anti-saturation', so it's not only softer, it's also more distorted. The dynamic punch is flattened, because it's saturation that hasn't been counteracted. You step really hard on the presence and punchiness of whatever's being turned down.
+
+There's an input gain control so you can gain stage this, but it's all working off Treble and Bass being either exactly 0.5, or Bad Things happen. The fact that they're interleaved Bessel filters just means the things that happen are spread across a wider range. The tone shapings that can happen out of this are really interesting and bizarre.
+
+Thing is, there's a twist to the catch. Stuff being expanded and dynamic-ified when it gets louder? That behavior also makes things sound farther away. Suppressing and distorting stuff more when you turn it down? That tends to make things sound more close-up. So the most basic, fundamental operations of Baxandall3 simultaneously apply huge EQ curves, while also hiding them and making them shift spatially the opposite to what you'd expect. Normally when we push levels up we expect saturation to rise. In Console7, the first time I experimented with this mechanic, that's what you get: more is also closer, and it's very natural and easy to hear. (FatEQ is the same.) This? This is backwards.
+
+I can't even imagine what people will make of this. If you're not being super-aggressive with it, you'll find that it responds to the tiniest adjustments. If you are getting super-aggressive with it, let me know what works and what doesn't because I'm still wrapping my head around how it even works. I assume there's going to be some sort of sound that Baxandall3 fits perfectly, and I'm not entirely sure what it'd be. But in its backward spatial tomfoolery, I'm sure it's the missing link for getting SOME kind of tone. Enjoy exploring!
+
 ############ Beam is a wordlength reducer that tries to heighten sonority.
 
 Beam’s a wordlength reducer like Dark, but instead of seeking to always give you the least departure from whatever trajectory the audio’s on (like Dark: and that suppresses highs, including noise in the highs), Beam seeks to make all waveforms converge on the same angle (either ascending, or descending). Imagine a world of triangle-waves, the deepest frequencies taking the most energy, and progressively quieter until high frequencies are in balance with the lows. That’s Beam. Beam has a ‘focus’ control that sort of optimizes the frequency range it’s providing a window into (as in, lower settings SEEM to encourage focus on deeper sounds, higher settings SEEMS to highlight the treble, and the 0.5 is set to zero in on where our hearing’s most sensitive.) And it uses those frequencies, across a broad range of possible sounds, to emphasize the energy and depth of the audio to shocking effect.
@@ -375,6 +409,27 @@ And then, perhaps a factor of how the bands are summed together, if you go to cu
 
 I have a feeling this is gonna be a real 'sleeper' plugin. It seems to do anything I ask while sounding like nothing was done. Those who are trying to mix by adding color upon color to their sounds, probably won't get this at all. But those of a simpler, rawer approach might really be pleasantly surprised. Even startled, in the best possible way.
 
+############ BezEQ3 refines the concept into four vivid, unified bands.
+
+Persistence has its rewards…
+
+The idea was to see if BezEQ could be expanded into something I can use in a Console, for which I like having four bands and frequency sweep controls for each. But the delay lines built into BezEQ2 had to go, because I'd also want zero latency… and that would produce a phasier response, perhaps interactions between bands that would make it behave less normally. But normal's easy to come by, SmoothEQ2 exists, so what if we could get something worth having that's less normal?
+
+Enter BezEQ3. There's more improvements on getting it to filter smoothly, there's that needed 4th band, and the sweepable middle positions to the bands, but it's still very much BezEQ. It's refined that unusual tonality down, and is still using a filter topology where, set flat, it's literally perfectly transparent.
+
+And then it's perfectly transparent for any other setting, no matter how extreme… but how you GET to those settings is something else.
+
+Because removing the internal delay lines and making it be zero latency, derailed the filter bands in some peculiar way. If you boost a frequency, you're cutting something else. Everything's kind of interactive. It's not going to behave nicely if you think you can treat it like shelving filters with neat markings. No point EVEN marking it. This is not SmoothEQ2, which runs on DF1 biquad filters like a normal plugin.
+
+Instead, you voice it by using the bands and sweeps as suggestions, and you listen to what it's doing. Nothing will get a frequency band to separate out and act like a 'frequency band', and curiously nothing will get frequency bands to come forward or fall back (like FatEQ) either. It acts, more than any other EQ I've ever heard or made, like no EQ had been done, and like the sound was that way on recording.
+
+It's just that you can revoice things to a ridiculous degree and still have it sound like one coherent piece.
+
+This plugin will be very polarizing. You will likely love it or absolutely hate it. I suspect some of the other old-schoolers will like what they hear. I'm almost sure anybody with extensive modern-production expertise will be frustrated and confused. So very many people think in terms of taking all the sounds and decomposing them into distinct pieces and fitting them together like some mixing jigsaw puzzle. What are you going to do with an EQ that refuses to separate out anything, where you can never turn a sound into this band and that band and holes where the bad audio used to be?
+
+Meanwhile, the old school practitioners of mixing black arts are licking their chops and can't wait to turn a much smaller number of tracks into something huge and compelling… sneakily heightening rawness and energy, without ever seeming like they are EQing. It's more like voicing. Nothing needs to be aggressive, just voice everything until it hits right and sits in the right places, and the top-to-bottom, left-to-right, mixing jigsaw puzzle can stay in the box. With suitable use of compression and saturation you could use this to mix a whole thing in mono, sounding unequalized, and it'd still hit like a ton of bricks.
+
+BezEQ3 is currently on track to be the primary EQ in ConsoleX3. Many people will just get mad at it, most likely. I'm just gonna have to show people what this is about… but if something happens when you try this plugin, and it gets exactly the sound you crave and you want to use it on everything… well, you know who you are, and you're welcome :)
 
 ############ BeziComp is a radical compressor that eliminates aliasing!
 
@@ -531,6 +586,24 @@ Here’s another utility plugin! This is the same as BiquadDouble, except it’s
 It’s for if you wanted to get steeper filter slopes without the cutoff going resonant. This, like BiquadDouble, is very much ‘tools to make tools’, for if you’re mocking up some kind of effect and know you’re going to be using filters. You can test out what you’ll use in your effect, this way. Note: seems like the inv/dry/wet is really just wet/dry/wet, and I have too many new and more worthwhile plugins to put out to fuss over it so I’d advise just taking BiquadTriple as it is. I’d be using it as full-wet anyway though you can bleed in dry for more of a shelf effect if you’re doing a steep rolloff of some kind.
 
 I expect to be doing some more variations on this as there are known ways to stack filters where the Q factors are very specific and staggered: however, those will be more aimed at the mixer/end user, and probably will be called isolators (that being a common term for this type of steep crossover-like filter). And again, I’ve got other things to put out that are more interesting, so more will be revealed as I do those experiments. I think an Airwindows isolator-style effect would be good. Bear in mind the biquads can be fussy about extreme settings and moving the sliders abruptly.
+
+############ BitDualPan is dual pan that's almost BitShiftGain.
+
+This is by request, and also a sort of experiment.
+
+There's a PurestDualPan already. It's out, it's free, it's yours. There is also a BitShiftPan, which is a lot like BitShiftGain except you can control the sides independently. The first, PurestDualPan, is simply a dual pan in long double precision and dithered to the audio buss. This is unreasonable overkill but I've always been fine with that. I'm trying to get a sound and only have bits to work with. So in the 'bit' versions, they manage to get the sound of 'utterly pristine and undiminished' through gain changes by applying simple gain changes but only in 6dB increments.
+
+In floating point, whether it's 32 bit or 64 bit double precision, if you do that something special happens. A floating point number has two parts: a mantissa and an exponent. The mantissa is literally a tiny chunk of fixed point audio data (well, unless it's just math data, but the same thing applies). The exponent? That's how loud to play the first chunk. All the 'bit' plugins do is alter only the exponent, and pass through the mantissa untouched. Perfect audio… in 6.08dB increments.
+
+For BitDualPan, that's what you get… almost.
+
+If you leave the sides hard-panned, the mantissas are untouched. If you swap the sides, same deal! If you set one side, or the other, to zero (silence) and then do anything at all with the other side, same deal. And then, if you pan in the sides (in 6dB increments, still) and leave both audible, that means both sides will be altered. They're added together, so they're a floating point add from two sources both of which were bit-shift gain staged, meaning the mantissa will be altered, and that means… what?
+
+I honestly don't know. I'm sure I don't have the nicest playback system of anybody who uses my plugins, or the best ear: I'm just willing to try stuff and this becomes a new form of minimal processing. Instead of dithered multiplies, it's summing a couple of floating-point inputs in such a way that there is only an add, nothing else. It's certainly not gonna be any worse than any ordinary DAW summing, but does it gain anything from setting up the source audio so both sources are the exact mantissa of the input channels? It reduces the whole thing to a single add (per channel) and no multiplies, which are normally what you see in this sort of thing.
+
+If you feel this one, use it in good spirits. It manages to cut the digital math to an absolute minimum but then apply it in a way I don't often see, and it sits in the 'dual pan' role that I've long overlooked. And it uses the mechanic the Bit plugins enjoy: when you're not touching the mantissa, you also don't dither because the output's already perfect. So, BitDualPan also doesn't floating-point dither, to see if there's a sound that comes out of the only mechanic being a floating-point add.
+
+I'll get right back to plugins that have more going on. There's only so much you can do with 'what is the sound of one floating point add per channel?' But here you are, to compare with PurestDualPan. Now you can pick whichever you like best :)
 
 ############ Bite is an unusual edge-maker.
 
@@ -960,6 +1033,22 @@ You can still have your fancy desk models (only better: the ultrasonic filtering
 
 Channel9 can be used anywhere you like. If you’re doing a Console mix, I’d put it after ConsoleBuss. If you’re not doing a Console mix, you can literally do anything you want with it: it’s a subtle distortion/fattener combined with a set of careful tone shaping algorithms. Hope you like it!
 
+############ ChannelX translates Channel9 into a profusion of wild experiments.
+
+Everything's the same, and nothing is the same.
+
+It's quite hard to tell what will happen with this plugin update. To surface appearances it's exactly the same as Channel9, right down to the slightly odd choices like a (lower slope) interleaved IIR filter for highpassing. The controls and what they do are exactly the same. It still has named 'modes' it operates in, still has a drive control that produces the Spiral saturator at 100% and Density at 200% and crossfades from dry to Spiral to Density, linearly. This is what Channel9 has had since 2021.
+
+It's not 2021 anymore… and Chris from Airwindows has been responding to the pressure of vibecode guys flooding the plugin market by trying new stuff more often… based on the existing Airwindows codebase, and pretty much nothing else. And Channel's number came up. (technically, letter, since X can be used for 10)
+
+Longhand was an experiment in using a Taylor series to make a sine function 'by hand' in case building it out of a single, continuous algorithm sounded better than the stock, optimized form. It seemed to sound nice. Both the sine part, and the Spiral part of ChannelX are now made that way, longhand, at very high precision.
+
+RetroBass came out just last week! It involves modulating even harmonics into the sound. ChannelX now includes this in its highpasses, but still uses the dielectric modulation from Capacitor, and also still uses interleaved filters, which RetroBass does NOT use.
+
+A stack of other plugins are being updated with an experiment I did inspired by elliptic BLEP antialiasing! But where that is established as a way to flawlessly synthesize a filtered result to any degree of high-order filter ripple, my experiments veered off to produce a tweak that operates over ONE sample, not to delete aliasing but to doctor it in such a way that high frequencies remain locked in place and do not 'come forward' in the way aliased highs seem to do. Totally other thing, seems to work, zero ripple or blur or SRC-like qualities. The directness is incredible. (people don't seem to go for this quality very often in 2026, which might be as good a reason as any to pursue it)
+
+So ChannelX is a wild mix of very new experiments under a familiar surface. There have been times I freaked out over how good it sounded compared to Channel9. With a bit of luck this bodes well for new plugins coming up. We shall see.
+
 ############ ChimeyDeluxe is a very flexible compressed DI conditioner.
 
 I've been working on this one for a while. It's done! ChimeyDeluxe is based on the same idea behind PointyDeluxe: more finely grained control over a bank of monster EQ bands, with processing stages between all the EQ stages that make the EQ so intense. None of it is normal but all of it is brutal, and PointyDeluxe found favor with industrial metal heads. To make it sound even slightly nice you have to follow it with either Cabs2, or an impulse response if you favor those, or perhaps the highpass and lowpass in ConsoleX2 or ConsoleH (the latter is still on track to be done before 2026).
@@ -1075,6 +1164,18 @@ ClipOnly2 is the heart of my mastering-grade clipping algorithm. Instead of tryi
 This produces a hard-clip suitable for safety clipper purposes, which is purely ‘bypass’ (plus a one sample delay to allow for the processing), with softer highs than you’d get from any pure hard-clip, no matter how oversampled. It’s an alternate technique, and is also pretty CPU-efficient.
 
 ClipOnly2 takes this principle and changes the ‘one sample’ to ‘the space of one sample at 44.1k’. Same tone, same ear-friendly approach to clipping extreme highs, except that now it’s effective at high sample rates. I’m demonstrating it and its predecessor at 96k, but ClipOnly2 is designed to work up to 700k or so, in case people get giddy with their newfound power :)
+
+############ ClipOnly3 is just plain stinkin' loud.
+
+Turns out you can go harder than ClipOnly2, through the power of noise!
+
+This plugin takes an idea currently rocking its way through bass music loudenation, the idea of covering up the sound of hardclipping through using noise, and runs in a completely different direction with it, to substantially upgrade ClipOnly while still not working quite the same as anything else.
+
+There's still the ClipOnly behavior of softening the onsets and exits from clipping. Still the total not-changing of any sample below the threshold. Still an ability to not add edgy digital glare to clipped highs like cymbals.
+
+But now, delicately clipped stuff gets a delicate tinge of noise. Hitting the clip harder begins to produce more noise… and then as you blow past that limit in turn, the noise gets replaced with purely hard clipping to a greater and greater extent, so that hyper-slamming restricts the noise part to only the onset and departure edges of the clips. And then there's an intersample peaking stage that was put in to deal with super-high-frequency test tones, which lets the maximum clip amplitude go insanely high without triggering analog peaking.
+
+So, like all ClipOnly, it's a tiny featureless plugin that will pass most audio untouched. It's just that when you slam it, there's practically no limit to what you can get away with. It's a clipper, so if you need a limiter this is probably not for you. But if you already knew you were going to be getting some clipping, or if your sounds mask it, or if you were just looking for total meltdown… have fun :)
 
 ############ ClipSoftly is ClipOnly2 but as a softclipper: a very handy building block.
 
@@ -1660,6 +1761,22 @@ This is different. I’m not sure it’s better but it’s different, and what i
 
 Enjoy the plugin if you like weird noise sources: again, might be sound design, maybe you’d like to gate it along with something? Gate it along with your snare and pick one of the midrangey settings and you might get a nice beefy reinforcement. Cranked way up, it gives a background noise ambience that’s like wind (heard from indoors, or being out in the wind) which can go from almost still, to thousands of miles an hour.
 
+############ Dattorro is the resonant lowpass filter out of Donut.
+
+Here's the filter out of Donut! This started as an experiment to see if I could code an SVF. That's a State Variable filter, and now that the other plugin makers have stopped laughing I'll tell you what it is :)
+
+Turns out a State Variable filter is about the simplest way you can do biquad-filter-like things (read: controllable and flexible) and plugin devs really like this one. That includes heavyweight genius devs like Andy from Cytomic who made The Glue and The Drop (Andy is a 'model every component' guy doing stuff I choose not to do, a rigorous circuit modeler). Dattorro is not that: Dattorro is me taking the concept of the state variable filter and doing Airwindowsy things with it.
+
+For instance, the frequency control's designed to go right up to the high frequency limit of the filter no matter what sample rate it's running under. It does this not by restricting the max frequency, but by altering the logarithm taper of the control so midrange frequencies will always be roughly in the middle of the control's travel. That means you never see exactly what frequency you're using, but neither do you see it on a 303 or x0xb0x and those are great, and this is very much a synth style filter.
+
+There's code for every kind of SVF inside Dattorro's source code, commented out, but the lowpass you get (and the resonant behavior, it has a great reso flavor) is not stock SVF, but airwindowsized. That's because I'm using a sin() function in there (for code simplicity. PurestSaturation would work just as well for this, or TapeHack) but not in the way you'd think. The obvious thing to do is put it on as a post clipper for simply adding distortion.
+
+But you know I'm always interested in anti-saturation, and so the softclip is going on the bandpass output… which is then SUBTRACTED from the lowpass (well, 0.5 of bandpass into sin() and then subtracted, I was working out what sounded best) and that's the filter. It's nearly as simple as the stock SVF but it sounds way, way slicker and that's what's in Donut and now here it is as a standalone filter for you.
+
+The sound is like the filtered-out part gets deeper and more vivid and interesting. Applying inverted saturation is like expansion: it's part of Dubly, and is like inverse Density, and is the buss section of every Console plugin in one way or another. It makes stuff sound farther away. Applying it to a synth filter in this way gives sonic depth and also a curious side-effect: the rolloff actually got shallower, even when it's resonant.
+
+This might be a clue towards something that could make a better Baxandall-style filter. I'll keep experimenting. Enjoy Dattorro :)
+
 ############ DCVoltage is literally a DC control voltage, in a plugin.
 
 This is exactly what it says on the tin. Do NOT just put this in a mix and crank it up to see what it’ll do. If your whole system is DC-coupled you will blow your woofers, just like that, after a big ‘whump’. I will not take responsibility for damage caused by misusing unusual tools.
@@ -1770,6 +1887,20 @@ So in the absence of somebody coming forth and saying ‘this is on my quadrilli
 
 …this is on somebody's quadrillion selling hit record. I'm still not going to tell you who, or how they used it. <3
 
+############ Density3 refines Density to keep up with recent developments.
+
+This secret weapon's seen a little fine-tuning.
+
+Density's one of my first plugins. Its power is in using sin() based overdrive combined with a very gentle highpass, one that can dial back the amount of saturation on heavy basses… while allowing it through anyhow using the dry/wet control. It's an incredible dirt-shaper for refined work.
+
+But what if it used the technique from PurestSaturation? That's Density3: finally an upgrade.
+
+But there's more! Turns out the negative Density range enjoys a change too: it blended better with a phase-flip. I could have known it needed one, except nobody constructs inverse saturations like this, as it doesn't seem like a useful sound. Until you take advantage of its gatey qualities to dial in tone, between -1 and 0, that keeps the nature of the tone the same but dries up its quieter regions, as subtly as you'd like.
+
+This is out because another dev I know was looking into Density2, and wanting to shoot it out against his own algorithms. I said, just so you know, there's a Density3 and it's on the github repository, it's just not out yet.
+
+Now it is :)
+
 ############ DeRez is an analog-style bit and sample rate crusher with continuous adjustments. This entry includes the Patreon blurb from mid-2018, because the things it says about the build systems, what they target and why I'm doing it, are still relevant today. That makes that stuff its own sort of Airwindowspedia entry as part of the DeRez entry.
 
 What would an analog bitcrusher even be? It doesn’t even make sense. You’ve got sixteen bits, eight bits, twelve bits: you can’t have, like, eight and a half bits.
@@ -1833,6 +1964,22 @@ I'm still working on the rock/prog dream of perfecting ConsoleX, with all those 
 Thing is, I bet it's possible to set up a Console system so it gives you everything you'd enjoy out of a real-deal SP-1200, possibly even including the delicate timing of the pads (very fine-grained quantization of time that is not quite as finely grained as sample-accurate DAWs…) but free and open source.
 
 For now, I hope you enjoy DeRez3, because it's a glimpse into that future, and it might just be a window into a hi-fi lo-fi that perfectly fits your sound. I mean, I'm a rock guy with no sampler experience and even I am tempted. I feel like this one might really break out of my prog-rock box. Give it a try :)
+
+############ DeRez4 perfects retro digital tones.
+
+Still working like mad on Meter, but I've got something of a special treat.
+
+What if, rather than go to great lengths to emulate something super vintage and unobtainable, you just… did something else, that ended up pulling a lot of weight and being great at exactly what the vintage thing did, at its best?
+
+DeRez4 is the first retro digital tone-maker to do what it does without ANY bitcrushing. Seriously. It runs everything at full floating point resolution… double precision, where that's available such as in Reaper using the VST build. It's doing it all with a sort of frequency crushing… but not like any kind I've tried before. And while it makes use of my Bezier filters, the guts of it are totally made out of hard, pointy line segments laid end to end, which I'm not sure if that's been used for this purpose before (after all, everyone trying to get the retro digital thing starts with bitcrushing and goes from there to layer 'analog color' over it…)
+
+This one's radically different from all that. The underlying frequency crush can be used to resynthesize pointy transients on upsampled audio, in line with some of the scarier high end audiophile designs. It'll throw a layer of glitter onto anything you give it, but very much 'fake digital' in nature, not anything natural. That's the underlying engine. At much lower frequency crushes, it adds a characteristic edge.
+
+The other two controls, Bright and Bassis, are each double Bezier filters. One in front of the frequency crush, one behind. Bright is sort of able to resist aliasing but not really: its real strength lies in drawing neat little radiuses to round off every point the frequency-crush creates. Doesn't matter what sample rate you're at, it just helps it work better. Then Bassis functions as a Bezier highpass… and layered the way that it is, it brings a curious resonant quality to whatever you put through DeRez4. Then there's an output trim, because these things can lead to peaks becoming more punchy and energetic than the original sound.
+
+DeRez4 is able to make a strong claim for 'better at retro digital vibe than even modeling the heck out of real retro machines'. It's always possible to get real live raw hardware (at great cost) to go do this sort of thing for real and all… but in the absence of that, or if it's a lot of trouble to run with that authentic workflow, it turns out there's another path to consider.
+
+That's DeRez4: instead of emulating, do an entirely other thing, done at the highest possible resolution but generating a whole other kind of sound that turns out to do a startlingly similar job. Conveniently, and for free.
 
 ############ Desk is classic Airwindows subtle analog modeling.
 
@@ -2118,6 +2265,24 @@ And there’s nothing else like it… and it’s yours. Enjoy :)
 
 Note: there is a more sophisticated version of this behavior in Airwindows Dark. The difference is, Dither Me Timbers only looks for a tiny micro-environment, within three samples. Dark extrapolates outward to work out which option will best make the WHOLE sound darker, not just a tiny three-sample area.
 
+############ Donut is in memory of Dilla.
+
+The main reason for this plugin is, one of my livestream people has wanted it for a long time. I'm hoping this brings him joy?
+
+Thing is, I've made a plugin in the SPIRIT of what I hear in Dilla, not a clone of a particular effect he may or may not have used on various things. And so, I believe this can be set up to do numerous things you've heard Dilla do… but also, I took pains to help it do other stuff I heard, and it kinda went on from there.
+
+This is basically an envelope follower. It's like my newest compressor plugin (as in, not out by itself yet but the one that's in ConsoleH and ConsoleX2), but instead of modulating volume, it modulates a lowpass filter. Except it's not just 'a lowpass filter', it's me trying out a very popular version of those filters known as a state variable filter, and doing some experiments with it which I don't know how common they are, but I loved the sound I got when I did them. The filter will come out by itself too, it's called Dattorro after the guy who wrote it into a textbook, and it's going to do interesting things like help me make a formant filter, later.
+
+But the way it works NOW is, you've got the compressor (a Bezier-filter compressor, so it doesn't have attack speed artifacts) with an attack speed that basically has it act like the original BeziComp, and then a release speed that lets you slow it right down. If you want to hear where it's at, you can turn the resonance up until it's basically just a wavering note.
+
+Then, there's a filter cutoff, a resonance control, and two more sliders just below those which modulate them according to the envelope, and that's it.
+
+If you put the filter in the middle, you can see that the modulator is at zero when in the center. So you can subtract the envelope, OR add it. Same with the resonance. My hope is that this can get you some neat effects, perhaps using Dilla-esque techniques like splitting the tracks and applying this real aggressively to only certain parts. In no way is it a 'push butan for dilla FX', my hope is that it's flexible enough to do a wide range of things with. Remember, if you use a very slow attack and fast release it's more of a BeziComp response, very wiggly.
+
+Part of what I found was that Dilla, I think, liked to run stuff into his Moog to process. Donut can do some of that: sweep it low and give it the right amount of resonance and it ought to resynthesize bass real well. It should handle automation nicely: state variable filters are better at that than, for instance, biquads. This is not the steepest of filters, but I set it up to have tone while reshaping things.
+
+I hope you like Donut! I have many things to put out but I can put out Dattorro too, if you like. That one comes with debugged versions of the original SVF code (which didn't work perfectly right out of the box, but has more options than I use here)
+
 ############ Doublelay is StereoDoubler with independent delays and feedback.
 
 This one was a request: I have a weakness for doing plugins for folks who worked on records I grew up listening to on vinyl. So often we recognize only the rock stars, but the guys behind the desks do so much to help the magic happen. And this plugin is there to bring the magic. It was a GREAT suggestion.
@@ -2358,6 +2523,28 @@ AU versions contain an extra 'Dynamics2Mono' version, which is coded N to N, mea
 
 Let me know how this works for you! There's time to fuss with it a little more, before it's 2026 and it gets built into Console systems!
 
+############ Dynamics3 morphs between vari-mu and expander!
+
+This is an essay in finding what something's meant to be, and then running like mad to expand it.
+
+What was once a Bezier-spline compressor with extra release speed if you needed it, turned into that, further tweaked, but with vari-mu: it modulates dry/wet now, not just amplitude. Does that make it a Fairchild? Absolutely not, in fact I didn't even reference Fairchild sounds in developing it. The way that was dialed in was to get the sound, not to get 'that' sound. Yes, vari-mu references a vintage beast, even an expensive one, but it's also a simple description of what happenes to ratio (mu) and it brought so much to the behavior of Dynamics3 that it stands on its own.
+
+And yes, ratio can be adjusted through the dry/wet, meaning this version of Dynamics can naturally take on 2-buss duties without breaking a sweat… but it's not a dry/wet, it's an inv/wet. Normally, that has a specific meaning: you can apply the plugin, or you can subtract it to produce the opposite effect. Does this subtract the compression, hence the 'invert' part of the control?
+
+No. What the inv/wet does, is let you do the opposite of compression, adjusted to get as close as possible to what the result SHOULD be if you got the perfect expanded sound as a complement to the compressed one.
+
+That's phrased a bit awkwardly, I'll try again. If you have a compressed sound, and the start of transient attacks is a little dynamic 'pop' before the compression hits, the 'inv' range gives you an expansion, where the start of the transient is suppressed and then the volume flares up after that.
+
+How much? It's sensitive to threshold, and to release speed. Back off on either one, and the expansion will back off too. Or if you ramp it up, it'll go into distortion but that's better than the kind of spikes you'd otherwise get. If threshold is almost, but not quite, 1.0 (pure 1.0 is also a bypass to the plugin) then full inv (expansion) leaves everything much quieter, because it's expanding down from that point. It doesn't go to complete silence because it's not a gate. If you speed up the release time, this also helps it not go to crazy expansion boosts, just like if you're heavily compressed, faster release time will help it not be squished into silence.
+
+The thing is, though, it's almost not worth trying to put it into words. The whole Dynamics3 experience is that, if you have a sense of compression, you should be able to dial that in effortlessly and immediately. Attack to get the speed of attack, release for how fast it springs back, threshold down to where it does what you want, ratio (dry/wet) for subtlety, boom. If you don't have a sense of compression, this plugin will teach you and make it seem easy and discoverable, as it should be.
+
+Then, with one slide from compression to expansion, it can broaden the impact of transients until they're dense and solid, or it can flare up the body behind a thin percussive attack, or pretend it's a gated reverb effect, or de-ambience a room sound, or all those things combined, to taste, with exactly the same controls (under the hood, it's a whole different algorithm, but it's meant to feel like an extension of the same thing).
+
+…as it should be.
+
+Dynamics3 has been getting revision after revision, to get it to this place: coming out as the first glimpse of what's going to be an amazing new ConsoleX3, where all the parts are this good and work this well together. If you've ever liked anything about any of the Bezier spline compressors… this'll probably be your new favorite, as it is mine. All the others are of course still there, it's just that I can't imagine you needing them now :)
+
 ############ Dyno is a lot like Mojo, but for intensity instead of loudness.
 
 Dyno is similar in some ways to Mojo, but Dyno has a completely different character. Instead of loudenating, it ‘intensenates’. It’s a little bit like Remap in that way, but it’s not the same as Remap. You won’t get a volume boost out of it really, nor will it let you slam it for fatter peaks.
@@ -2525,6 +2712,22 @@ But, they change ‘angle’ at a sharp point which becomes sort of a corner in 
 And down near zero, it’s damn near total hard clipping. At silence, it literally is a hard clip to silence.
 
 Aw hell. Play with it, see what you think. i can’t explain this one well, at least not right now. The mad scientist labs have released another weird one. It will act like it’s a hard clip or a semi-dirty saturation, except the range of adjustment acts different, and it’ll throw an odd artifact on pure low-frequency tones… just play with it, see what you get. It will find its way into the combined plugin because it’s got a flavor all its own, but I can’t describe it today.
+
+############ FastDistance is a sort of ultra-efficient lowpass filter.
+
+This is work I'm doing in efforts to help the Godot game engine. Whether or not it's accepted by them, you get to have it now :)
+
+The idea of the distance filter is, something you can have on every sound source in a scene. It's gotta be efficient, because there can be an awful lot of them. It's gotta handle wild modulations, because who knows what might be happening there in the game engine. And it's gotta roll off high frequencies, because stuff that's far away doesn't sound as bright as stuff that's right next to you.
+
+Ideally (like with my previous Distance plugins) it's doing clever things to put across the sense of great distance, but how clever can you be if you might have to have hundreds of sound-makers all talking at once? And so, FastDistance specifically chooses forms of treble-filtering that are dirt simple. It's just a variation on an averaging filter crossed with an IIR. Need more? Layer on more of them. The IIR (infinite impulse response) is not there to be fancy, it's just there because it saves me allocating one extra variable. The way it uses more or less poles of filtering is literally jumping into a pile of them and letting them go. There's no way of controlling it other than just choosing how deeply you filter in this one particular way that's unreasonably efficient to calculate. In fact you don't 'calculate' it at all, you just use it directly.
+
+The weird thing is it actually sounds pretty awesome.
+
+Since it's so efficient to run, instead of doing three or four poles of filtering, you can do thirty or forty. They run about as quick as calculating the coefficients of a regular old filter. There's next to nothing to them. And when you take such a primitive filter and just do it more, what you get is increased cutoff steepness… but the cutoff is very high already, and it's not at all resonant. So the intense layering just gives you a very natural sounding darkening effect, combined with taking the highs and absolutely burying them an unthinkable number of dB down. It's just how it works. It's not really a 'steep cutoff' no matter how many poles you use, and is never the least bit resonant or filter-sweepy. Just a distance through air darkener.
+
+It's very likely that this will find other use but for now I'm gonna see if Godot likes it (and if it's competitive efficiency wise with the more traditional low shelf they're using). I'm working on a system for game engine reverb that I hope will be useful, also for Godot, and I'll have an ultra lightweight reverb soon that's teaching me many useful things I can incorporate into my flagship reverbs.
+
+And whatever else happens with all that, you have FastDistance as a free plugin, plus also as MIT licensed source code that you can use for anything so long as you credit. Enjoy the new lowpass :)
 
 ############ FatEQ balances bands only with density.
 
@@ -3416,7 +3619,6 @@ Oh… because the delay works like you're speeding up the tape more and more, if
 
 I'll have more legit stuff coming soon. For now, have fun with the new monstrosity. It won't behave, but nothing you have will make noises like it, and that's always part of what I do :)
 
-
 ############ kCosmos is infinite space ambient, or titanic hall.
 
 It's not the first time I've tried to make a space ambient type reverb, but there are a number of firsts here nevertheless.
@@ -3434,6 +3636,18 @@ And I've refined the concept of 'gradually restraining the infinite sustain when
 And lastly it has both CreamCoat style undersampling, and CrunchCoat style, at the same time. Meaning, set to full crank it uses the CreamCoat method for applying Bezier undersampling without artifacts, and as soon as you go away from Derez of 1.0, it switches to the continuous adjustment range of CrunchCoat, sometimes described as 'cursed digital derezzing'. Except this time, the Derez control is control-smoothed, and use of the filter tends to mask the 'cursed' quality completely. It's just that the giant reverbing space can be cleanly pitched up and down as you go, or dropped to an eerie rumble and murmur.
 
 There will be further experiments, but kCosmos stakes out a position as the most epic (and playable) Airwindows reverb. I hope you like it :)
+
+############ kCyberCity brings live atmosphere to deep reverb.
+
+If you count the number of Airwindows reverbs, even just the ones with 'k' in front, it's pretty daunting. This journey has taken years. Most recently, I've been working on the basic technology of how the reverbs are even made (running a 6x6 Householder matrix fed by a 3x3 early reflections matrix) and refining the program that I run, night after night, to explore the space of possible delay combinations using genetic algorithms.
+
+And still, the best discoveries are the accidents.
+
+kCyberCity sounded, from the first, like rainy neon dystopian futurism. Which is to say, it screamed 'Blade Runner', but it doesn't actually have a Lexicon algorithm in it… it's way more complex than that. It sounded like what I imagine Blade Runner sounded like. Specifically, I got a sense not of a big room, but of rainy city streets, washes of echo return, a particular sheen that felt like neon reflections on pavement sounds.
+
+But what really helped (in more practical terms) was developing a 'room tone' method that involved not only feeding 'VoiceOfTheStarship' noise into only the regeneration part of the reverb, but also coming up with a way to modulate that, where before I'd tried things like 'Discontinuity' in that position. What I got was special: where I got a hot intense sound in a reverb like kGuitarHall2, this time I got the ability to disrupt the deep reverb field as if listening into a live environment, with wind and atmosphere. And two separate ways to manipulate that, for defining the apparent size of the reverb space and for defining how still (or un-still) the air was in there. Oh, and also a feedback nonlinearity that tweaks the whole character of the space.
+
+This is the first truly live Airwindows reverb, but won't be the last. Turns out that even if you drop the 'room tone' right down to what is realistic for an acoustic space, it still makes a huge difference in believability. A lot like dither, really, but considerably more obvious. You'll have to use BitShiftGain (or compress really hard?) to get it to be obvious, but you don't have to. The room tone is heightened when regen is turned way up, if that's your intention. In normal use, think of it like a sort of dither, but for spaciousness.
 
 ############ kGuitarHall accentuates loud midrange skronk!
 
@@ -3555,6 +3769,40 @@ So even though it's purely software, the tube circuitry is plainly obvious as a 
 
 So if I can do this, why didn't I do it with kPlateA, B and C? For the same reason the Beatles album Abbey Road and the Pink Floyd album Dark Side of the Moon wouldn't automatically be better if they were cut on the old REDD consoles. Each sound serves a purpose. They convey distinct atmospheres, which your ear can learn and remember, so rather than struggling to adapt all manner of strange controls you can do 'this should have kPlateB' and then concentrate on what music's meant to go into it. Hope you enjoy the atmosphere of the classic kPlateD :)
 
+############ kRockstar is a realistic hall reverb that blends very well.
+
+It's interesting to step back from all my Meter and Console struggles and check out where Airwindows reverb is at.
+
+kRockstar is named that because it's pretty much the highest performer on a new kind of measurement I got working with kCyberCity. But instead of stumbling across a vibe of rain-slick streets and neon, kRockstar is about very pure, very uncolored deep hall space. Not 'flat', because that doesn't sound nice, doesn't feel real. It's unusually resistant to funny overtones and gives a strangely flat response when activated with a particular test signal, while also having all the other stuff I try to build into reverbs.
+
+What's it for? kRockstar is for when the reverb is not the star.
+
+You can put a silly amount of it on, without distracting from the music, the focal point. kRockstar fills in the space and sits things just where you want them (Positin lets you tune where the music sits relative to the space behind it). But used properly, it's weirdly invisible. You end up getting a powerful sense of the size of the space (Regen helps control how sustainy that's meant to be) long before you can hear the reverb speaking up in obvious 'tails', the kind of stuff you expect to be up front and obvious.
+
+With kRockstar, by the time you can 'hear' it, you're already bathing in it. You have to sort of listen for the size behind everything, and go by your perception of how big that is. That's in line with the recommendations around truly world-class reverbs like Bricasti, except kRockstar is voiced quite differently: Bricasti's smooth and dark, but kRockstar pulls off the same smoothness without sacrificing air. This is done through the 6x6 Householder matrix allowing the highs to still be there without coming forward. Again, it's not 'flat' but compared to Bricasti air is just pouring out of it… but unlike a lot of reverbs not coming forward, even when it's intense highs.
+
+As a final touch, kRockstar has the same 'alive silence' thing I first added to kCyberCity, where the air in it is not frozen and still. Instead, the reverb breathes with a background space caused by the hall volume being activated by gentle air movement. It's too quiet to hear, but like properly applied dither, it alters the way you hear sounds drop beyond hearing. It's just that dither stops things from dropping into grit.
+
+With kRockstar, when sounds drop away they drop into a sense of place, that's felt more than heard. Kind of like things in the real world. And again, if you're hearing the reverb washes, that's all fine, but that also means you have it distractingly loud. See how it works when you balance the sense of how big things are, against the other elements in the mix, so that sense of hugeness is simply another presence alongside all the other things you're hearing. The sense of place you get from handling it that way might be just what you needed…
+
+############ kRockstar2 is a realistic hall reverb using a new matrix!
+
+kRockstar is no longer the most impressive realistic Airwindows reverb, because everything changed when I discovered the Conference 6x6 matrix.
+
+What that means is, each delay line output no longer feeds the next six delays in line. Instead, each delay feeds only five out of six… but they're always different ones, and more importantly, they're all either unity gain or inverted unity gain. Just like the 4x4 Householder matrix!
+
+Except, with a 4x4 matrix one input sound produces 256 echo returns, before feedback. With a 6x6 matrix, one input sound produces 46,656 echo returns before feedback… NOT counting the 3x3 matrix that handles predelay and placement in the room, So, 1,259,712 distinct echo returns, before feedback.
+
+It sounds lush. The texture is even better than kRockstar (exactly the same reverb algo and delay times, just so you could compare the two techniques!). It's also adding a Distance control, which is FastDistance but split in two, so that one half of it runs inside the undersampling and produces exactly the same tone no matter the sample rate. The other half runs outside the undersampling, specifically to darken exactly the part of the plugin that's meant to be smoother if you're filtering. If you're into dark spaces like your classic Bricasti tones, this control is your friend.
+
+kRockstar2 does not use the subtle tone adjustments I came up with for Ultralight, because I wanted it to match kRockstar closely. Both do have a subtle taste of nonlinearity to them, cleaning up just a tiny bit quicker than expected, blooming with loud sound just a little more to make the point.
+
+As a final touch, kRockstar2 has the same 'alive silence' thing I first added to kCyberCity, and continued in kRockstar, where the air in it breathes with a background space caused by the hall volume being activated by gentle air movement. It's too quiet to hear, but like properly applied dither, it alters the way you hear sounds drop beyond hearing. It's just that dither stops things from dropping into grit.
+
+With kRockstar2, when sounds drop away they drop into a sense of place, that's felt more than heard. Kind of like things in the real world. And again, if you're hearing the reverb washes, that's all fine, but that also means you have it distractingly loud. See how it works when you balance the sense of how big things are, against the other elements in the mix, so that sense of hugeness is simply another presence alongside all the other things you're hearing. The sense of place you get from handling it that way might be just what you needed.
+
+The reverb developments are coming fast, so expect me to beat this pretty soon :)
+
 ############ kStation is a realistic small room modeled after David Bowie's vocal reverb.
 
 Turns out I'm getting asked for smaller reverbs for a reason.
@@ -3619,6 +3867,38 @@ You can approach compression duties from several directions with Logical. It has
 Then as you pass 4/1 ratio and go off to a max of 16/1 (approximate, but that’s the basic idea) there’s a tone change, and as you get into crazy high ratios, Logical goes a little bonkers. This was NOT available in previous Logicals. The issue was, if you rely heavily on that final compression stage, things can get messy. You can push Logical until it’s nasty and so full of energy it’s forcing you to use the makeup gain to PAD the output, just to handle all the madness.
 
 This time, and in honor of Logical going free VST format, it’s not set up for only good behavior. This time, it’s your responsibility to not blow up your outputs by thoughtlessly cranking the ratio. Consider it an audio chainsaw made of silk and glorious victories. Not every top-selling plugin got this much better when I revisited it. I’m very pleased with how Logical4 came out, and I hope to see it talked about a whole bunch. This one’s worth a lot of ‘did you hear?’.
+
+############ Longhand is an experiment in softclipping.
+
+A sine is a very interesting thing, in part because it's so very simple.
+
+Think of a circle. A sine (and cosine) is what gives you that shape. It's a simple arc in space. If you use the mathematical function sin(), it gives you a waveshaper, but if you don't clamp it to half of pi (a constant called M_PI_2) you get a wave FOLDER for your trouble. As your wave gets louder it starts to wrap around again, first to zero and then all the way to negative 1 (the output of sin(), no matter what the input, will return something between 1 and -1).
+
+Very simple, and it's the waveshaper with the absolute gentlest transtion between linearity and clipping. Interestingly this means there's a sharp transition at exactly zero when the rate of curvature flips, and this gave rise to my plugin Spiral (and newer versions of Channel), but as a simple function sin() has the softest clipping anything can have.
+
+Does that make sin(), in every C compiler and every computer, perfect?
+
+There's a catch. To implement sin(), nothing out there really does it in the cumbersome, calculating way. There's optimizations. As you hit exactly 1.0 (or -1.0) in the output, that's when you can begin referring to a lookup table, but backwards. You can store a series of values and interpolate between them. You can build a dedicated hardware unit into your CPU to do it, or your GPU. You might get ambitious with this, since you're probably drawing triangles and can't be bothered with details. sin() is simple, but implementing it can be hacktastic. And of course it'll still be perfect, because it's math and it's a computer, and what else could it be?
+
+Longhand's an experiment in checking this notion, for the purposes of audio.
+
+First, there was PurestSaturation. It uses a form of approximation known as a Taylor Series, where you make a temporary number, and keep multiplying it by itself, and then alternately adding and subtracting the results by very specific amounts. The purpose of PurestSaturation was, 'what if we make a sin()-like saturation, but intentionally use fewer terms than you'd normally have, so there's less math in it? and then to top it off, what if we only use powers of 2 for the adding and subtracting and the scaling, so we're retaining the mantissas of the temp variables even though our sine isn't accurate anymore? It'll be close, but it'll be a different thing. What happens then?'
+
+And so, that's PurestSaturation. TapeHack has some similarities to this. Both are intentional departures from the majesty of sin().
+
+But… what if we put our working variables in long double precision just for sheer overkill, and then rather than departing, we worked out LOTS of terms for a Taylor Series of sin(), beyond the point that even long double can follow? For starters, we are only doing simple multiplies and additions and subtractions. That's all a Taylor Series is. What that does is, rather than model a sine in discrete quadrants and mapping it to where it's needed, we're calculating the wave as ONE continuous function. Every new term means more calculation, but also another layer by which this continuous function can wrap around, wavefold again and again, and produce a sine as a result.
+
+Once we stop adding more powers to the temp variable, it stops being a sine and becomes a runaway wave-shaper, producing an output that's no longer countered by a higher order of temp variable pushing the opposite direction… and at that point we have to clip or otherwise stop, or we get infinity out of the equation. It's never a perfect wavefolder unless it's infinite processing… but one thing it is, is a continuous function. It'll wavefold around without ever transitioning to a lookup table or using any sort of optimization. Longhand, in a word.
+
+What does it SOUND like?
+
+The answer to that question is also why the dry/wet control doesn't work as expected. Turns out I followed this one all the way through to release, without removing one little detail: it includes 'dry' in its gain trim, which can slam the processing right up to its final, no-further-wavefolds, ultimate peak. I had some consternation trying to figure out what I was even doing but that's what it was. The maximum gain (substantial!) is what it takes to get Longhand to its final peak. The inputs are hardclipped, -1.0 to 1.0, for that exact reason and no other. There's a taper to the control but 0.5 is not unity gain, it's just pretty close to it. All of this was so I could run dry into normal 'sin()' and then subtract it and use BitShiftGain to bump up the delta and see what, if anything, was there.
+
+And there really is the tiniest difference between the math library, optimized one, and Longhand. It made sounds when nulled out in this way. Does that make Longhand better? It's certainly the tiniest amount more linear as the waveform rounds over the top, because it's continuing the same algorithm. Now, of course, the dry/wet is returned to its original purpose… sort of. But since it's not true Dry, it instead is an output that can boost past clipping. Any DAW that can run Longhand is a floating point buss, so you can pad it down again, getting a dry/wet where you're effectively blending between dry and a soft-saturation that's also lowering its clip threshold as it goes. Or, you can ignore dry/wet unless you're using Longhand for an ultra soft clip and it's not soft ENOUGH. If you've got any Dry in the signal and you're not clipping the output, that guarantees Longhand is giving you a softclip that's even softer than sin().
+
+This was an experiment that got out of the laboratory since I've been scrambling so hard to finish up more demanding plugins. If you leave dry/wet out of it, Longhand is the purest and most continuous of soft saturators. Apologies for the odd behavior of the dry/wet, it got past me and there is so much else to do that I'm going to have to let it stand. Apart from that, is this a giant improvement over math_library sin()? No, because there's no way to have it be a big change and also still be sin(). But it is different, in that it's a very very high accuracy approximation that is continuous through the point where the math library uses an approximation, mirroring, and quadrants to return a result from any value you pass in.
+
+This is not that, it's very restricted and goes the cumbersome long way round to return a value. But if there's fluidity to be had by working the answer out in longhand, this is how that's done, and that's the experiment.
 
 ############ Loud is distortion and demolition of air molecules, modeled.
 
@@ -3687,6 +3967,18 @@ I don't remove plugins that work, so this doesn't replace LRConvolve (I'm not su
 But when you run more typical sounds against each other (rather than using something predictable like a full-amplitude sine), suddenly a whole new behavior emerges. Turns out, if you reduce Soar on this algorithm and have two sounds convolving each other, there's a full range of behavior between 'mostly choked out' and 'hypercompressed and exaggerated'! This will also apply to some extent to SquareRoot, except that LRConvolve2 highlights the behavior because more sounds will be forced into the 'quiet' zone where Soar operates.
 
 For that reason, it might come in handy just sussing out how the algorithm works as it's used in SquareRoot: or, using it like the original LRConvolve but with additional tonal control that's unique to what that plugin is. I'm working on other plugins such as the Bezier-curve compressor for ConsoleH, plus a wild project (sort of an art project) around making literal buotique stompboxes, so if this isn't the plugin for you, wait a week and I'll make another :)
+
+############ LRConvolve3 gates one channel by the other, roughly or cleanly.
+
+So the LRConvolve plugins are all audio manglers, capable of doing awful things to a sound, or turning an innocent voice into the Swedish Chef just by inverting that voice at audio rates. It's inherent to the convolution that you can flip the phase of a sound with another sound, and this is where things get most gnarly, even if you're convolving stuff with simple sine tones.
+
+But what if you wanted to do that, but cleanly?
+
+Well, there's degrees of 'cleanly', but LRConvolve3 exists to sit alongside the other two, looking cute, for when the full convolution is just too intense. And it does just that: the same, but 'cleanly'. How? You pick one of the sides, and full-wave rectify it. There's another control simply named 'smooth' (not the same as the Bezier control-smoothers I've been coming up with, this is from the same time I was doing the original LRConvolve) and all it does is add a time constant, turning your sound from full-wave rectified into basically an envelope that decays.
+
+And that's all you need to get the effect of 'one side turns into the gate for the other', either responding very crisply with Smooth turned all the way down, or using Smooth to make it a trigger input for the gating of the other. I demo it on a guitar taking the shape of drums, and then on a racecar fly-by also taking the shape of drums. You'll probably look to more percussive sounds to supply the gating, but you can do whatever you like: for instance, do something extra through passing a sustained chord on the 'sound' side, and then routing a bass part or whatever into the gate, and you've got some extra overtones that are attached to the bass part and follow its attacks and dynamics. Or a drum spot mic, or a literal timing click: if you have to stretch a too-brief sound, that's what Smooth is for.
+
+While I work on more glamorous and dramatic plugins, it's nice to drop a little widget that just does what it's supposed to. Hope if it ever finds a need, it comes in handy. Like many utilities, LRConvolve3 could find many surprising uses, and it's nice how it ties its effects so completely to other sounds you have around. That helps make each use unique :)
 
 ############ LRFlipTimer is a utility that swaps Left with Right every few (1-10) minutes.
 
@@ -4160,6 +4452,22 @@ PearEQ combines an intensely natural, analog-sounding character around the sharp
 
 Go right ahead, and I'll keep working on more out of all this, as it comes together and shows its usefulness :)
 
+############ PearLiteEQ is a four-band Pear-based graphic EQ.
+
+It's been a minute since we've seen PearEQ… at least directly. It's been a secret weapon in my console emulations for some time. You know how there are EQ designs that are normal and act normally? There's also weirder options, and I've tried most of them and invented a few.
+
+AngleFilter was one of them: very strange and messy, and it became the lowpass and highpass in Cabs and several variations on Console. The newest Console lets you have Anglefilters, but also control the steepness so it doesn't have to get as fierce. AngleFilter is what makes PointyGuitar and PointyDeluxe especially, be so pungent and unmanageable.
+
+SmoothEQ was the opposite: a regulation biquad filter, but used in a new topology for a purer sound. That one? Not weird at all, not a lot of character either. You get to make stuff be all frequencies rather than character. It's got its uses.
+
+And then there's Pear.
+
+So this is basically a kinder, gentler version of PearEQ. It's way nicer than AngleFilter or PointyDeluxe, but it's still strong on character. It's got an ability to strongly shape frequency ranges, but tends to sound more cohesive and less clinical. It's softer and nicer than PearEQ (a six-band) and is easier to come to grips with, as it's just four nice-sounding bands.
+
+PearLiteEQ is for being friends with your sound. Though you can do pretty extreme EQ moves with it, it resists turning into total sound deconstruction, it hangs onto the basic tone of the sounds it's working on. It's not quite as invisible as a time-aligned BezEQ, but it also doesn't have to run latency. It's the sort of thing you might build into a console emulation or have on every track of your mix, and Pear will continue to find use as a kind of crossover in Airwindows EQ designs: neither so surgical that it's clinical, nor so 'character' that it's awkward and messy.
+
+I hope PearLiteEQ brightens your day :)
+
 ############ PhaseNudge is a phase rotator/allpass filter.
 
 Here’s a simple little utility plugin, Airwindows-ized. Except, it seems like this isn’t part of typical DAWs and plugin collections. Can’t see why, it’s a pretty basic tool.
@@ -4510,6 +4818,8 @@ PurestConsole is like the dynamics encode/decode out of Console5, without the sl
 Channels: inputSample = sin(inputSample);
 Buss: inputSample = asin(inputSample);
 
+Note that the Channel version of this wavefolds. It doesn't stop at +1.0 -1.0, it will wrap around further. The Buss version does clip at that because otherwise the whole thing would crash.
+
 Without all the mojo and tone changing, that is IT. Anyone building a DAW can include this (channels post fader! And do not allow the asin() to see values that’ll break it, you can get NaN out of math functions if you break them!).
 
 PurestConsole has special properties, besides ‘being in the Console5 family so you can swap them out freely with any Console5 variation and get correct results’. Since the amplitude encode/decode is most important to the effect, stripping it down to THIS simple has an interesting property I demonstrate in the video.
@@ -4531,6 +4841,8 @@ PurestConsole was always the ‘colorless, transparent’ take on any Console sy
 
 The end result is the same kind of analog warmth… except it’s a cool, airy clarity that resolves absolutely EVERYTHING. If you’re shooting for super-clear this is the one you want. And since Console mixes can drive submixes which then use another Console system to sum the stems to the 2-buss… you can sneak it in on your harmony vocal beds, or orchestral stems, or you could use Console7 for everything and then sum only the stems to the 2-buss using PurestConsole2. Instead of mixing and matching within the summing busses, design your mix structure by figuring out where you want analog fatness and slam, and where you want clarity and resolution.
 
+The specific way I go about doing this grandiose thing has to do with filters, which is an odd thing to include in PurestConsole but it's got its place. This is one of those 'distributed filters' but it's only two stages of filtering: it's running a 0.618 resonance filter on the channels, and then a 1.618 resonance filter on the buss. These combine to become a flat filter… but the buss aspect is running inside Console, so the resonant peak it has is being applied to the summing before decoding. Hence, the 'airy clarity' stuff: we're literally applying expansion to just the highs of the track in summing without altering the tonal balance of the whole chain.
+
 ############ PurestConsole3Buss is an alternate algorithm for minimalist Console.
 ############ PurestConsole3Channel is an alternate algorithm for minimalist Console.
 
@@ -4547,6 +4859,10 @@ And that means if you're running something like current Reaper, as I am… with 
 And it went from 5% CPU, with presumably 16x oversampling on all Console tracks and the buss, at base 96k sampling rate, to 30% CPU. I could've doubled the project and it would still have run. (probably the original PurestConsole would not be able to do this)
 
 And it sounds… different! You'll hear it. You surely can do it. It's got its own sound. Not an Airwindows sound, I think. Sort of smoothed off and glossy. In the video I demonstrate this output, versus non-oversampled PurestConsole3, versus ConsoleZero. And, having heard all the original sounds off my instruments and modular, I think ConsoleZero is rawer and more accurate (that's sort of the idea). But now, if you have a great love for oversampled nonlinear plugins, PurestConsole3 is my little gift, an Airwindows Console version that's designed to work with, not against, what you like.
+
+I must add, however, that while this is interesting (a precursor to PurestSaturation and a lot of further work I did: this concept underlies my TapeHack algorithm), my little 'gift' is NOT safe under all circumstances. To make it oversample as high as possible, I stripped it of virtually any other code. That includes safety clipping. So if you wanted to use PurestConsole3 in total safety, you'd need to run a safety clipper like ClipOnly3 or ClipOnly2 (any version, really) because none of PurestConsole's algorithms clip. And where a normal 'sine' function will continue to do wavefolding and keep the output between -1 and 1 forever, this… very much won't.
+
+So be aware, PurestConsole3 is one of those experimental ones. So long as you keep the levels down, it's a very CPU-efficient way to fool with Console summing even at high oversamplings (or just use minimalist processing). But it can't handle excess gain.
 
 Have fun, and I'll keep new stuff coming as well as I can!
 
@@ -4651,6 +4967,28 @@ The result is this: waveforms that need a little sweetening, can have that textu
 PurestWarm2 is PurestWarm, but better. I was asked for a version of PurestWarm with a dry/wet (which would make it even more subtle and gentle) and then I thought, why not TWO dry/wets, one for either side of the waveform? That way you could massage both the positive and negative sides of the wave (seen briefly in the video: I wiggle the cursor around to show which side’s being reined in by which slider) to taste, or both at once.
 
 And so that’s what PurestWarm2 is (plus, ultrasonic filtering added for use at high sample rates). It’s also using a performance tweak I hit on, defining the filter coefficients when the plugin’s instantiated, rather than once every sample buffer. Not a complicated thing, but for anyone who made use of PurestWarm, this should count as a nice upgrade. And it’s a direct request: since I was asked for PurestWarm but with a dry/wet, how could I not?
+
+############ PurestWarm3 is a subtle tone shaper and warmth adder.
+
+It's been some years since PurestWarm saw any attention. It's always been a bit tricky: proper second harmonic distortion is 'warmth' but it's very hard to hear. But that's just the start of it…
+
+Every version of PurestWarm ever (OK, so that's just the original and v2) has had a flaw that I didn't fully understand in 2022, and have come to respect. Freya Holmer's video on spline continuity tipped me off, but I learned about it years earlier with an ill-fated Channel 'upgrade' that I had to roll back as if it was 'New Coke'. People respond to sudden changes in derivatives even when the waveform seems to have perfectly good continuity.
+
+The crossover through zero in an audio waveform counts.
+
+So, the previous versions of PurestWarm do an abrupt switch between 'dry' and 'effect' at the zero cross. That's nearly as bad as what a sine does (abruptly changing from positive to negative curvature at zero) and even though it's fairly hard to hear the largely even harmonics this produces, it's still a limited approach. And so, PurestWarm3 is here… but what's it doing that's different?
+
+An odd little use of 'FMA' (fused multiply-add) to produce a super high resolution version of a continuous asymmetrical distortion. One that can scale up and down to produce more or less of an effect. One that's already been heard in RetroBass, in ChannelX… now you've got it standalone, in a stripped-down and minimal plugin that only does that one thing.
+
+And it's so much purer and smoother than even the previous two, that you damn near can't hear it at all.
+
+That's the trouble with these. PurestWarm3 actually throws two harmonics, a second and a fourth. It doesn't matter much, you still can barely hear it. I've set it up so it can be exaggerated wildly, just to be heard. The challenge there (not present with the previous two) is, this is a continuous algorithm. It just reshapes everything. So what it takes from one side of the wave, it adds as peakiness to the other side, and so it will distort enthusiastically if you push it too hard, and then if you don't push it too hard you kinda can't hear what it's doing, much.
+
+Add to that the same derivative BIP tech I've been developing, and it really really stays out of the way sonically. A puzzle.
+
+So, this is not really a 'slather on thicc warmth!' effect. If you have sounds that are already asymmetrical, such as certain basses, it can reshape those to ironically make them LESS warm but cleaner. Or, you can exaggerate the effect and make it more striking. Push it too far and you're messing with a kind of expansion that won't play nicely with mixing.
+
+I hope to make use of this in a future console plugin where it'll convey the exaggerated transient spikes of certain late-70s noise reduction, so it's not like there's no use for it. Just don't expect an 'EQ-like' activity out of PurestWarm. It is rearranging energy, almost losslessly, to be a subtly different shape, and leaving next to no trace it was ever there. To some of you, this might be of great interest if that got your attention…
 
 ############ Pyewacket is an old school compressor for high definition transients. Adds no fatness, just energy.
 
@@ -4764,6 +5102,22 @@ This is because, contrary to modern practice, there's huge power in being able t
 It's the mids equivalent of Airwindows Weight for bass, and it works incredibly well (even if you do it with biquads or EQ-design cookbooks). And I don't have the analog-Console projects finished yet… but you can have this part of it now.
 
 Use the 'ow argh way too extreme' settings like 1.0, where everything kind of turns into an audio laser, to dial in exactly what spot opens up an instrument or voice for maximum passion and sonority. Then, dial it back to around 0.5 and begin increasing it, seeing at what point you've got too much of a good thing. ResEQ2 is great at being a subtle light-bringer and giving clarity to a track. It's also a full-on energy weapon that can be set to 'way too much', so use it however you please. The resonance increases as you turn it up, so feel free to dial it back if it gets ringy. Probably not a good plugin for mixing live sound unless you like dial-a-feedback :) hope you enjoy ResEQ2!
+
+############ RetroBass is a special kind of highpass.
+
+It started with a second-and-fourth-harmonic generator I stumbled into (never fear, you'll get that too). Though it was a little more complex than the simplest second harmonic generators, it still had the unmistakable signs of them: you could mess with the settings until the output clipped like mad and still you'd not really hear what it was doing. The asymmetry has tone qualities, is warm and all, but at such low harmonics it's just so hard to hear.
+
+Causing me to wonder: can you use that to take away low frequencies like a filter?
+
+So, combining it with a simpler version of the highpass filter I use in Channel, I start experimenting (on a livestream) by modulating it with the same IIR stuff I'm subtracting to make the highpass. Not only that, this asymmetrical even-harmonics thing is using the aliasing-manipulation hack I came up with for normal distortions just recently (and that is buck wild because I invented that on purely hard clipping, but it generalizes) and the next thing you know I'm figuring out whether it's best to bring it in directly, or inverted.
+
+And I observe that it produces this funny double bump of a distortion, but one way around the initial lobe of what was once a sine wave normalized to 1.0, is bigger, and what follows is both smaller and a tighter shape. It's acting like it's taking energy in the oscillating wave, and running out mid-oscillation. This is what analog circuits do, when their coupling capacitors run out of steam. It's just being done in a peculiar way.
+
+And dialing it in using the test waves, and then trying it out on lots of different things… I discover that it's RetroBass. It's better than anything else I've had, for specifically making stuff bass-starved in a retro-seeming way. It sounds like old gear not designed for modern subs.
+
+Not only that, if I push it farther, it starts to get into those hot harmonic-rich zones that make some old vocals sound so intense. It's like a treble zing that is done through weakening the fundamental. Very handy.
+
+RetroBass will continue to be useful in things like retro consoles, but right now it's a standalone highpass you can use however you like. There's more to follow (I did mention the aliasing thing designed around hard clipping) but RetroBass leads the way. :)
 
 ############ Reverb is simplified and tuned MatrixVerb, adjusting everything for each optimum verb size.
 
@@ -4993,6 +5347,20 @@ Slew3 uses ideas from Acceleration and DeBess to produce a slew clipping that’
 
 This is an experimental plugin. In development, some of my audio caused it to freak out, and it took extra time to get it to behave (I suppose I could also put out the freak-out version but for now let’s stay safe, OK?). It’s not quite linear or predictable (neither is real analog) and though I feel like it might have some very serious mojo to bring, I’m also interested in whether it dies given certain kinds of audio. I’m pretty sure I have it tamed to where it won’t do anything crazy, but is it really the silver bullet? I guess we’ll find out together.
 
+############ Slew4 is tape compression without the tape, for brightness control.
+
+You've heard of a cat without a grin and a grin without a cat, and you've heard of plenty of tape plugins without tape compression… but how about the compression without the tape?
+
+Slew4 does just one thing, but it does it incredibly well. It finds digital edges and glare and high frequency tizz, and it wipes out JUST that, to whatever extent you like, using new filtering ideas I don't think have been used before in this way. The Airwindows Slew plugins have long been a secret weapon for just this purpose, but this takes it completely beyond anything I had.
+
+That's why this is the technology in TapeHack2, and what got included in ConsoleH and ConsoleX2 as hasty updates soon after they came out, and why it's a significant part of ToTape9 which I'm doing everything I can to finish up. Now it's there for you to use and control, without any sort of saturation stage or any other sort of tape modeling, in its purest possible form.
+
+One thing that means is, if your sound isn't bright enough, there is no chance you'll ever hear it do anything. With the right kind of vocal track this is a de-esser all by itself. For other vocal tracks, even ones with pronounced esses, you'll find it does absolutely nothing. It ONLY cares about the very highest highs, and excises them so neatly you'd never know they were there.
+
+Slew4 runs two samples of lookahead to do what it does, and makes its filter by stacking up averaging filters with even numbers of samples in them. These produce stopbands with big cancellation nodes in them, but when you stack them up, each new cancellation node targets a bump (between nodes) from the previous one… so it becomes a very steep roll-off with good filtering past the cutoff, and no pre-ripple meaning it has incredible time domain performance for something that steep. The strangeness of the stop-band response is probably why this wouldn't have found use before, but it turns out to sound fantastic, especially when it's just reining in the highest highs without touching anything else.
+
+If you liked TapeHack2, you already like this! Enjoy playing with it as a dedicated brightness tamer :)
+
 ############ SlewOnly is a mix check plugin that shows you only the extreme highs.
 
 By request, here’s my mix monitoring tools, for VST and Audio Unit, Mac and PC! Please remember, these like Guitar Conditioner are control-less plugins so you don’t operate them by opening their windows: they’re either on or off, which probably is shown in your DAW mixer window already.
@@ -5143,6 +5511,26 @@ And then if you want to be really annoying you can lay down SoftClock with whate
 Cheat. Start with Tuple in 4 to lay down the main riff, and then elsewhere in the arrange window, do a separate pass with Tuple set to 7. It'll be quite a bit faster. Groove whatever you want to that, get a good snippet, and then fly that over to the middle of your 4 groove… and it will line up perfectly with the notes you did in 4, because Tuple is just as accurate in 7 as it is in 4. It'll do the math for you, so you can construct all sorts of peculiar things but make them groove like anything.
 
 Play with it, have fun. There's no wrong way to use this, and you don't have to make it over-fancy. It's just able to scale up to the most unreasonable things and make them seem like you have amazing powers of odd-time-having. The best part is, you do it all playing live to the wobbling tone in SoftClock, so it won't seem artificial. Just kind of alien :)
+
+############ SoftClock3 is a groove-oriented time reference.
+
+You might or might not have heard of the first SoftClock. It came out shortly after I'd developed it because people desperately wanted to play with it, and before I was able to use it much. (still can't, too busy with plugins.) It's the metronome made of waving, wobbling tones where the beat is always a swoop of a (mostly) sine wave that goes up to a high point. Inspired by a joke metronome of dog woofs that proved strangely inspiring to play along to, SoftClock is the machine tempo with perfect regularity but no actual beat, where you have to place the 'click' of your notes wherever it SEEMS to be.
+
+Version 3 is largely about taking SoftClock in a strange direction where it builds in Airwindows theories about tempo from 2020, and designs its wobbly guide sound around them, producing distinct wobbles based on what sort of tempo node you're using.
+
+But what on earth is a tempo node? Well, in practical terms it's the thing that took away the whole 'big beat' and 'snare pocket' and 'speed' controls, replacing them all with ONE control that is simply 'Flavor'. Set 'flavor' to zero, and you get a simple repeating pitch-waver to guide your tempo. It is not a 'click' but you'll find it easy to sync up to it because the pitch-waver sounds like moving your body feels, and you can set a tempo by its regularity. The beat is where you feel the beat is. The waver is perfectly regular, so it doesn't drift.
+
+Set 'flavor' to 0.5, or even more, and things start getting a lot more interesting.
+
+That's because this 'node' concept of tempo covers a lot of bases. You can have 'relaxed' nodes where the groove mustn't be too rigid or strenuous. You can have 'tense' nodes where it's positively brittle, loaded with energy. There's nodes that amp up the relaxed energy until it's an infectuous groove… or nodes that take the relaxed energy and hang back, sneaking in attitude until the groove swaggers. It's a continuum of groove, cycling between serene ease and jittery edginess, and it wraps around and around rising tempo like a barber-pole from the slowest to the fastest tempos. One of the Airwindows fans, Bo Danerius, worked out the algorithm and shared it, after I made a post outlining the theory: math webpages can do things like that given scatter-plots of data, and I'd sorted a whole bunch of hit records into these categories.
+
+And now, SoftClock3 does it automatically: just set the tempo and it AUTOMATICALLY applies the speed, swing and wobble settings to deliver the correct pitch-wobble for whatever that tempo is. No guesswork. It even helps you tune in exact tempos for a song or riff: if you're near the ideal setting, it's likely that one direction will be ramping up speed and tension, and the other direction will slow the wavering and calm the energy. Either of these directions could be either faster tempo or slower: depends what node you're already at. It ought to be a very natural way to find the correct tempo for whatever you like, by roughing in the general region and then exploring until SoftClock moves the way you need the song to move. Use the Flavor control to govern the amount of character that should be applied to the tempo: full relaxed or full tense don't have swing, but groove and swagger do, and they're adjusted by the amount of Flavor.
+
+If all this sounds like complete madness, that is perfectly fine. It's experimentation. We can't all go 'tell me what plugin you want and I'll have AI make you one'. Some of us gotta deal with getting these big ideas, and pursuing where they lead, sometimes for years. It's been six years since I posted the first thoughts on this stuff. SoftClock already existed. Why not run with the combination of all these things, and see what it does?
+
+SoftClock3 is a groove-oriented time reference. It's pursuing various theories nobody else has, in hopes of making a kind of 'click' that so perfectly represents entrainment (the way musicians feel time) that it can not only lock people in effortlessly, but also lead them towards the perfect tempo, through exaggerating the flavor of that tempo until it's impossible to miss.
+
+If it works, we can all discover a new thing together… and lay down some momentous grooves of all flavors and varieties. :)
 
 ############ SoftGate is a gate that can mute hiss and smooth sample tails.
 
@@ -5466,6 +5854,24 @@ And because the behavior’s so odd, it can react to an easing of pressure by sw
 The way to get SurgeTide working is to adjust the Surge Node until it squishes away the sound on the beat, then find the right speed for Surge Rate to work, and then back off Surge Node until it’s no longer inverting the dynamics. (unless you really want to: I’m not the boss of you.) It works really well as a subtle accentuation of mix low-end movement, giving some of the effect of a buss compressor but in an unusual and much cleaner way. Also works to subtly act as a level control and restrain dense mix moments so they can hit something like loudenation with more consistency.
 
 It doesn’t work in any useful way on isolated tracks, particularly not staccato drum tracks: just maybe it would do helpful things with say, a lead vocal or a synth pad. Just remember that SurgeTide is for powerful, whole-mix movements rather than the usual compressor things, and that it can have effects on the extreme low bass, and build up the swing and flow of a mix. It’ll work on some things and be useless on others. I hope you like it.
+
+############ Suzan is a new type of ladder filter.
+
+So a funny thing happened to me on the way to Dattorro…
+
+I was talking about the very simple state variable filter I made, Dattorro, and how it was very handy, could even substitute for a biquad filter according to Andy from Cytomic who's an eager advocate of these (as opposed to, say, a biquad filter of direct form 1), and how I'd come up with a twist on it using only a sin() function to do the unexpected thing of subtracting the distorted bandpass element FROM the lowpass, and how that had a neat tone I liked. The twist was new, and I was excited about the possibilities.
+
+Then, on a famously crotchety forum, a guy popped up to object… saying I shouldn't call it not a biquad. It's just an SVF and not direct form 1, but it's still a biquadratic filter. You could even have literal analog filters that are biquads. I had the language wrong and he apologized for the fact that this drove him up the wall.
+
+He's Antoine Portes, and he's writing an experimental book about filters called Working Class Filter Design. Biquadratic means the transfer function's denominator is a quadratic formula, another name for second order polynomial. He's been trying to do a really good Moog ladder, which apparently is more like fourth order, and he notes that we use Q for resonance, but there's another part that goes 1/(2*Q) and this doesn't have a consistent name. He's calling it Damping, but suggests if you don't like that you can call it Suzan for all the difference it'll make to him.
+
+Naturally, I was charmed though his math is over my foolish head :) and so, I got busy again, except it was with experimenting in code rather than figuring out the math of it. And I told him I'd name the filter, meant to be experiments on this fourth-order, Moog-flavored filter, 'Suzan' in his honor.
+
+And this is the result. It's a small stack of SVFs. The difference is, Antoine understandably is interested in representing these things in correct math, and doing sensible things at least some of the time. Me on the other hand… my whole deal is being able to try things that don't exist yet. By all rights the AIs should be paying me to come up with novel things for them (maybe there'll come a day when that's a reality).
+
+And so, Suzan is not two but three SVFs in series. And the SVFs are still normal, except I'm up to my Dattorro tricks but even worse. Stage A subtracts the bandpass of stage C. Stage B subtracts the bandpass of stage A… and stage C adds the bandpass of stage B. Oh, except they're all the sines of those bandpasses, and the first two are using half the amplitude of the bandpass, the final one which adds is using the full amplitude going into the sine function.
+
+I don't claim justification for this or an analysis of why it works. Swept way up high it can have high frequency instability when hit with full blast white noise, which I hope doesn't cause issues (I got it to where it was simply a boost but didn't blow up). I find it's a nice chunky resonant peak and even gives appropriate amounts of bass restriction when resonance is turned up… and the inappropriate use of feedback across the stages does a nice job of giving a colorful texture. One I am intimately familiar with both from records, and from owning everything from a MG-1 Concertmate to a Werkstatt to a Sub Phatty. But we're not calling it that, because it isn't one of those. It's Suzan, and it's trying to bring the right kind of mojo to my filter collection. I hope you like it :)
 
 ############ Sweeten is where you can find super-clean second harmonic.
 
@@ -5829,6 +6235,22 @@ Does that mean setting it to neutral does nothing? Nope, this is the best part. 
 
 That's the new stuff, Flutter and Bias and Head Bump and Head Bump Frequency still work the way they do in ToTape7. I think they'll be even easier and more pleasing to work with now that the Dubly stuff has been brought up to par. Let me know if this plugin sounds better than ToTape7. It ought to :)
 
+############ ToTape9 is Airwindows tape emulation and brightness compression.
+
+ToTape is one of the most successful plugins I've ever had. Step by step, it's come along and incorporated more and more things, but always in an original way. It picked up flutter, bias, Dubly, and then adapted all these things to the needs of the musician. So if you don't know how to calibrate Dubly units for heavy music, you have a Tilt that will give you more of a leaning towards brightness, or darkness… but it's implemented via the Dubly controls so it acts like adjustments on a tape machine. Shape works likewise, going for either more old-school sonority or more big-studio chill. Flutter behaves itself unless you don't want it to, and the input and output controls make it very simple to manage ToTape9's gain staging, for gentle use or aggressive slam.
+
+But then the heart of ToTape is completely replaced by what I learned making TapeHack2, itself a giant leap over the original TapeHack, which was itself a huge discovery. When I tried this in the guts of ToTape I was just completely shocked by how huge it sounded. The scale of the sound put the previous version to shame. You do not have to slam this to have it sound amazing, but if slamming's your thing I think this will bring delight and joy.
+
+And then it's topped off by not the latest ClipOnly… but the NEXT ClipOnly. The one where I ran with the concept, not completely unlike my old Chrome Oxide plugin but in a new perspective, of 'dithering aliasing'. It turns out you can't actually dither aliasing but there's a large number of interesting effects you can produce by noising up clipping. So when I experimented, I ended up applying it in a way nobody else was doing, introducing noise just faintly as clipping begins to happen, ramping it up, and then as hard clipping takes over, shifting it to the 'edge samples' akin to what ClipOnly and ClipOnly2 have always done, meaning the noise goes back away again (and is never all that loud: sorry, no special FX here)
+
+And combining this with the existing ClipOnly2 created a monster.
+
+So that's what's on the end of ToTape9. Output at 0.5 means you're just barely bumping this final clip stage. Boost it and you're hitting the output clip harder, cut it back and it's purely the ToTape section. I would imagine mostly leaving it at 0.5 is what most people will do, but it's yours to experiment with. It produces a 'beyond tape slam' that is shockingly big and deep and loud, it applies its work only when clipping is actively happening, it's all within a very tiny amplitude window so it stays clean on most everything, and it gracefully handles Gibbs effect overslew (intersample clipping) without ever applying upsampling or downsampling, so the sound is aggressive and raw the way I like my tape effects to be.
+
+Try ToTape9. It's the most intensely tapey plugin I've ever done, with new abilities like the ability to soak up highs like the real thing. It's got all the little details you could ask of a no-compromises real tape model, but adapted to musical purposes so you can think 'tilt towards more brightness' rather than 'should I go with a 355 nanoWebers per meter calibration'. And it's got the most killer output clip stage I've ever made, just to let you use it as a kind of loudness maximizer right out of the box.
+
+I hope this brightens your day :)
+
 ############ ToVinyl4 is a vinyl-mastering simulator bringing several vinyl-type colors.
 
 ToVinyl has several uses. You can use it to reshape the bass in your track, making it more mono or tightening up the center. It’s a special multipole IIR filter that acts almost like a ‘mega-bass’ plugin: it doesn’t just take away, it rearranges (so don’t expect it to act like a normal digital cut, you might see increased peak energy down low.)
@@ -6011,6 +6433,58 @@ I make these things because I have a Patreon that frees me from starving, and al
 uLaw is like that. You probably don’t have it because it’s ugly and strange and needs to be designed into a more sensible configuration, typically with a bitcrusher and nothing else, because nearly anything else you do with it produces horrible noises.
 
 I’m genuinely happy to bring you this audio chainsaw. You never can tell what will be handy, either as the pair, or individually: logarithmic processing may well find creative uses. Have fun!
+
+############ Ultralight is the most low-CPU matrix reverb I can make.
+
+This plugin continues work I'm doing, trying to make working demos of ideas for the Godot game engine.
+
+Much like FastDistance is a filter that (when not pushed to really heavy attenuation of brightness) is way more efficient than using a DF1 biquad filter, Ultralight is a reverb that's way more efficient than using any of my other reverbs. Why? Because it's extremely limited. There's nearly nothing to it, just a 4x4 Householder matrix and some tone shaping. (all my test audio of potential patches for this reverb are even simpler, showing only the raw matrix without even tone shaping.)
+
+Why? Because I want to put dozens, maybe hundreds of them, into a game… and have the game still run and have room for graphics and gameplay.
+
+This would involve placing them as ultrasimple mono instances, each with its own delay times and settings, in a scene. They'd all get fed all of the sounds in the scene, and then your environment would be composed of all the distinct spaces sounding off at once.
+
+This is the plugin version of that, so unless you can compile it with your own reverb patch (generated by IntoTheMatrix) you get the built-in space and can manipulate it with the controls. Warning, if you set the RT60 control (which is 'damping') to zero, you get infinite sustain! I wanted that in case some patch and combination of settings worked, when set to 'infinite', though I'm not sure that can ever happen.
+
+Furnish goes from zero to four, and specifies how many of the first four comb filters should be replaced with allpass filters.
+
+SolidWl goes from zero to four and works on the feedback paths. It's a highpass filter that also cuts back regeneration a lot. The idea is that it'll mimic the walls being less than solid as rock, since normal construction doesn't contain superlow frequencies very well. Don't expect much adjustability as it is a very cheap efficient hack for doing it.
+
+ReflcWl goes from zero to four and works on the feedback paths. It's the same kind of lowpass filter that's in FastDistance, which leads to some funny behavior at high regeneration (low RT60 damping). Again, it's a very cheap hack, as efficiency is all that matters.
+
+Predlay is the predelay, in samples, and goes from 0 (1 for the AU) to 4096, which in Ultralight runs inside a simplified version of my undersampling, so it'll act consistent if you're running it at high sample rate. It's enough predelay to account for some pretty huge spaces.
+
+Dry/Wet is the reverb (there are no early reflections) and works as usual, except that in Ultralight…
+
+Distnce is the distance high frequency attentuation, just like in FastDistance, and runs AFTER dry/wet so you can hear what a sound, its predelay, and its reverb, sound like in a game engine with all of them far away from you. That's because, like my earlier plugin VerbSixes, this plugin is the tool I use to audition possible 4x4 reverbs to add to the game engine. I paste in the new values in the header file, build it, and do a sound example to hear what it did. Especially when dialing in settings, that's helpful. Again, this is NOT really meant for musician or mix use, though if you must run a reverb on impossibly potato hardware, this might save you :)
+
+############ Ultralight2 is more of the most low-CPU matrix reverb I can make.
+
+This plugin continues work I'm doing, trying to make working demos of ideas for the Godot game engine.
+
+Much like FastDistance is a filter that (when not pushed to really heavy attenuation of brightness) is way more efficient than using a DF1 biquad filter, Ultralight2 is a reverb that's way more efficient than using any of my other reverbs. Why? Because it's extremely limited. There's nearly nothing to it, just a 4x4 Householder matrix and some tone shaping and a teeny allpass chain that runs in parallel to the predelay.
+
+Why? Because I want to put dozens, maybe hundreds of them, into a game… and have the game still run and have room for graphics and gameplay.
+
+This would involve placing them as ultrasimple mono instances, each with its own delay times and settings, in a scene. They'd all get fed all of the sounds in the scene, and then your environment would be composed of all the distinct spaces sounding off at once.
+
+The controls have changed a bit! I had to do a bugfix on Ultralight anyway (redownload it if you want the tone shaping to work fully as intended). Now, rather than making part of the first delays turn into allpasses, I did further experimenting. No wonder I never liked allpasses, they sound awful unless the delay time is so quick it's inside the 'Haas effect' region where really rapid echoes blur and merge… without that, they're useless. Now all the matrix delays are normal reverb delays (which also means they can run even faster in SIMD) and then there's another thing that goes in front…
+
+Turns out you can use exactly the same sequence of operations to do an allpass, and a simple delay line. THAT means it can be SIMD (single instruction, multiple data). And it turns out if you set these things up right (never mind loops, just do things in fours) compilers really do optimize for them if they can. I learned that when some AMD users on retro machines got wildly worse performance than they should: your processor has to at least be able to do vector processing on 32-bit floats to run Ultralight or Ultralight2. Anything half recent ought to do it, though I'm interested in exceptions (I don't think stuff compiled on the Pi will be using SIMD).
+
+So now there's Damping (same as RT60, but more damping means less sustain), but if you turn Damping to zero, rather than getting infinite sustain, now you get zero reverb… just only the predelay, dry/wet, and the allpasses. So Ultralight2 can also be used as a blurry slapback.
+
+Then there's unSolid and unRflec, which are the highpass and lowpass like they are in Ultralight. But there are changes here too… unSolid is the highpass, where if you turn it up the decay gets brighter and you lose bass through the walls. However, the frequencies are a bit different than they are in Ultralight. unRflec is the lowpass, like in Ultralight, where I've fixed a simple bug and re-uploaded it (it's just the next week, be aware that's happened and consider it an Ultralight Redux). However, with Ultralight, these things go from 0 to 4, incrementally adding stages of the feedback path into the filtering, and using the same paths: for Ultralight they count down from 4 which is the least filtered, and they pick the same paths so choosing 3 on both means that path is both highpassed and lowpassed.
+
+For Ultralight2, you set it to 0 for no filtering, and 1 to filter only one path… but they come from opposite directions. So, if you set the filters to 2 and 2, you've just put a filter on every path, but only one. If you pick 1 and 3, or 3 and 1, same deal: you've affected all the feedback, but in different ways. 4 and 4 gives you full highpassing and lowpassing on every path, and so on. I just found that it sounded better that way.
+
+You can also set the predelay to 0 and then there's no allpassing. Each part of the reverb can be individually bypassed, just in case.
+
+Dry/Wet is the reverb (there are no early reflections) and works as usual, except that in Ultralight2…
+
+Distnce is the distance high frequency attentuation, just like in FastDistance, and runs AFTER dry/wet so you can hear what a sound, its predelay, and its reverb, sound like in a game engine with all of them far away from you. That's because, like my earlier plugin VerbSixes, this plugin is the tool I use to audition possible 4x4 reverbs to add to the game engine. I paste in the new values in the header file, build it, and do a sound example to hear what it did. Especially when dialing in settings, that's helpful. Again, this is NOT really meant for musician or mix use, though if you must run a reverb on impossibly potato hardware (that can do SIMD), this might save you.
+
+I think this will hold me with low-CPU verbs for now. I've got big things in store for the flagship reverbs: turns out there's a kind of matrix for 6x6es that's way better than Householder, which is optimal for stuff like these 4x4s. So this work has led to some nice advances in Airwindows-land :)
 
 ############ Ultrasonic is a very clean, plain, high quality supersonic filter, for using inside digital mixes.
 
@@ -6306,6 +6780,36 @@ It acts more like a bass amp than a transformer DI, but more like some strange n
 I need to try it in some mixes, and so can you. I bet I can add deep-bass boosts and get something else out of it, but even just as it is, I can immediately hear how it would fill in a spot where bass guitars are supposed to go. It's just that rather than going crazy on the channel EQ, or running a bass amp and going crazy on that, it will just do that sound right away and it'll sit in an otherwise full-range mix reinforcing exactly what I want the bass guitar to reinforce.
 
 I've looked at the output in a wave editor and it's terrifying to think that this monstrous thing is probably my new go-to DI bass plugin, but here we are. Oh, and I bet you anything this makes basses project better on a phone. Have fun :)
+
+############ WoodenBox is like a miniature reverb for converting DI to acoustic.
+
+The request was for a plugin to convert an electric guitar sound (presumably DI?) to the sound of an acoustic.
+
+In a very abstract way, this might be the answer for that?
+
+It's more complicated, though, because as usual I'm exploring the larger ideas around that. The very most obvious thing to do would be 'take the impulse response of an acoustic guitar, maybe if you're feeling ambitious try to strip out the original electric's tone quality or put big tone controls on or something, done'. But it might not be that simple…
+
+What's an acoustic guitar sound, anyway? Vibrations of wood, extra sonorities, resonances. Except those are called 'wolf tones' and are always bad. And anything we add along those lines will be other forms of wolf tones or resonator-guitar clangs, and will be bad. So what then?
+
+One thing about an acoustic guitar is, it's also a miniature room made out of wood. It vibrates, but also it reverberates. And I've been putting all this work into reverbs over the years… so what if I run the same grueling search for interesting, well-balanced rooms, but on miniature spaces? (never mind that I've only recently discovered new ways for the rooms to be better balanced!)
+
+And so we have WoodenBox. Like the older reverbs based on ClearCoat, it has a bunch of different spaces/colors on tap. But they're all extremely tiny compared to even a small room. There's enough going on in them to produce a vague stereo-ish quality, but not so much that it's a chorus effect. The tone is dense, confined: it doesn't replace the need for a room or chamber sound. But it doctors and reshapes the tone in the way that a simple room reverb never would. And it can be used on many things beyond guitars… for instance, synth patches, or perhaps electronic drums.
+
+I don't know quite where this leads, but it's an interesting start to have made. People who were asking to get smaller rooms out of me… well, you're still getting those, but first you get stuck in a wooden box :)
+
+############ X2Buss is an updated version of the buss processing from ConsoleX2.
+
+Here's a sort of update. I've put a lot of work into the new Dynamics3, for the purpose of using it in ConsoleX3 when that's done. In doing that, I came up with some upgrades for the Bezier compression, and they weren't there when I did ConsoleX2 and ConsoleH… and on top of that, those used a very different sort of buss compression, which sort of speeded up rather than getting more intense. My idea with it had been to do a one-knob buss compressor that was really easy to dial in. I'll be replacing it with the full Dynamics3, vari-mu and expansion and all.
+
+So, what to do with the orphaned buss comp?
+
+Update it as a standalone. It no longer needs you to use the whole Console system, no longer has all the features in that, but there's one part it hangs on to: the ConsoleX2 EQ. So you get, not the BezEQ of the upcoming Console, but SmoothEQ2, based on more normal, traditional biquad filter EQ. Then, the cleaned-up version of the X2 buss comp, and then an output fader that's unity gain at the center, for gain trim.
+
+But one more thing: now the safety clipper after all this isn't ClipOnly2, like in ConsoleX2. It's ClipOnly3, with the little window of noise transitioning between unclipped and the edge of clipping… which itself is gentler than usual, like every version of ClipOnly.
+
+So, while I work on many other exciting things, here's a plugin that's like a previous Console's output stages, but with every detail slightly refined and polished, and in a standalone form so people can fool with it without having to go full Console. And it gives me time to work on some of the new plugins, and to test the new Meter, which needs a new video (already) because of how much it too has changed.
+
+X2Buss might serve as an interesting variation on 'loudenate', given the tone shaping possibilities, the unusual compression and the latest output clipping stage. Let me know if this fills a need :)
 
 ############ XBandpass is a distorted digital EQ, inspired by retro sampler DSP.
 

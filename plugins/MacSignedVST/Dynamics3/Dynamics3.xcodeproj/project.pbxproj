@@ -12,15 +12,15 @@
 		24CFB70407E7A0220081BD57 /* PkgInfo in Resources */ = {isa = PBXBuildFile; fileRef = 24CFB70307E7A0220081BD57 /* PkgInfo */; };
 		24D8287009A914000093AEF8 /* Dynamics3Proc.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24D8286F09A914000093AEF8 /* Dynamics3Proc.cpp */; };
 		24D8287F09A9164A0093AEF8 /* xcode_vst_prefix.h in Headers */ = {isa = PBXBuildFile; fileRef = 24D8287E09A9164A0093AEF8 /* xcode_vst_prefix.h */; };
-		8B2242F72EEC9303009150EE /* vstfxstore.h in Headers */ = {isa = PBXBuildFile; fileRef = 8B2242EB2EEC9303009150EE /* vstfxstore.h */; };
-		8B2242F82EEC9303009150EE /* aeffect.h in Headers */ = {isa = PBXBuildFile; fileRef = 8B2242EC2EEC9303009150EE /* aeffect.h */; };
-		8B2242F92EEC9303009150EE /* aeffectx.h in Headers */ = {isa = PBXBuildFile; fileRef = 8B2242ED2EEC9303009150EE /* aeffectx.h */; };
-		8B2242FA2EEC9303009150EE /* audioeffectx.h in Headers */ = {isa = PBXBuildFile; fileRef = 8B2242F12EEC9303009150EE /* audioeffectx.h */; };
-		8B2242FB2EEC9303009150EE /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8B2242F22EEC9303009150EE /* audioeffect.cpp */; };
-		8B2242FC2EEC9303009150EE /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8B2242F32EEC9303009150EE /* audioeffectx.cpp */; };
-		8B2242FD2EEC9303009150EE /* aeffeditor.h in Headers */ = {isa = PBXBuildFile; fileRef = 8B2242F42EEC9303009150EE /* aeffeditor.h */; };
-		8B2242FE2EEC9303009150EE /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8B2242F52EEC9303009150EE /* vstplugmain.cpp */; };
-		8B2242FF2EEC9303009150EE /* audioeffect.h in Headers */ = {isa = PBXBuildFile; fileRef = 8B2242F62EEC9303009150EE /* audioeffect.h */; };
+		8B1135AC2F96F03100E1DB20 /* vstfxstore.h in Headers */ = {isa = PBXBuildFile; fileRef = 8B1135A02F96F03100E1DB20 /* vstfxstore.h */; };
+		8B1135AD2F96F03100E1DB20 /* aeffect.h in Headers */ = {isa = PBXBuildFile; fileRef = 8B1135A12F96F03100E1DB20 /* aeffect.h */; };
+		8B1135AE2F96F03100E1DB20 /* aeffectx.h in Headers */ = {isa = PBXBuildFile; fileRef = 8B1135A22F96F03100E1DB20 /* aeffectx.h */; };
+		8B1135AF2F96F03100E1DB20 /* audioeffectx.h in Headers */ = {isa = PBXBuildFile; fileRef = 8B1135A62F96F03100E1DB20 /* audioeffectx.h */; };
+		8B1135B02F96F03100E1DB20 /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8B1135A72F96F03100E1DB20 /* audioeffect.cpp */; };
+		8B1135B12F96F03100E1DB20 /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8B1135A82F96F03100E1DB20 /* audioeffectx.cpp */; };
+		8B1135B22F96F03100E1DB20 /* aeffeditor.h in Headers */ = {isa = PBXBuildFile; fileRef = 8B1135A92F96F03100E1DB20 /* aeffeditor.h */; };
+		8B1135B32F96F03100E1DB20 /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8B1135AA2F96F03100E1DB20 /* vstplugmain.cpp */; };
+		8B1135B42F96F03100E1DB20 /* audioeffect.h in Headers */ = {isa = PBXBuildFile; fileRef = 8B1135AB2F96F03100E1DB20 /* audioeffect.h */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,15 +30,15 @@
 		24CFB70307E7A0220081BD57 /* PkgInfo */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = PkgInfo; path = mac/PkgInfo; sourceTree = "<group>"; };
 		24D8286F09A914000093AEF8 /* Dynamics3Proc.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Dynamics3Proc.cpp; path = source/Dynamics3Proc.cpp; sourceTree = "<group>"; };
 		24D8287E09A9164A0093AEF8 /* xcode_vst_prefix.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = xcode_vst_prefix.h; path = mac/xcode_vst_prefix.h; sourceTree = SOURCE_ROOT; };
-		8B2242EB2EEC9303009150EE /* vstfxstore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = vstfxstore.h; sourceTree = "<group>"; };
-		8B2242EC2EEC9303009150EE /* aeffect.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = aeffect.h; sourceTree = "<group>"; };
-		8B2242ED2EEC9303009150EE /* aeffectx.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = aeffectx.h; sourceTree = "<group>"; };
-		8B2242F12EEC9303009150EE /* audioeffectx.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = audioeffectx.h; sourceTree = "<group>"; };
-		8B2242F22EEC9303009150EE /* audioeffect.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = audioeffect.cpp; sourceTree = "<group>"; };
-		8B2242F32EEC9303009150EE /* audioeffectx.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = audioeffectx.cpp; sourceTree = "<group>"; };
-		8B2242F42EEC9303009150EE /* aeffeditor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = aeffeditor.h; sourceTree = "<group>"; };
-		8B2242F52EEC9303009150EE /* vstplugmain.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = vstplugmain.cpp; sourceTree = "<group>"; };
-		8B2242F62EEC9303009150EE /* audioeffect.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = audioeffect.h; sourceTree = "<group>"; };
+		8B1135A02F96F03100E1DB20 /* vstfxstore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = vstfxstore.h; sourceTree = "<group>"; };
+		8B1135A12F96F03100E1DB20 /* aeffect.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = aeffect.h; sourceTree = "<group>"; };
+		8B1135A22F96F03100E1DB20 /* aeffectx.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = aeffectx.h; sourceTree = "<group>"; };
+		8B1135A62F96F03100E1DB20 /* audioeffectx.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = audioeffectx.h; sourceTree = "<group>"; };
+		8B1135A72F96F03100E1DB20 /* audioeffect.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = audioeffect.cpp; sourceTree = "<group>"; };
+		8B1135A82F96F03100E1DB20 /* audioeffectx.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = audioeffectx.cpp; sourceTree = "<group>"; };
+		8B1135A92F96F03100E1DB20 /* aeffeditor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = aeffeditor.h; sourceTree = "<group>"; };
+		8B1135AA2F96F03100E1DB20 /* vstplugmain.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = vstplugmain.cpp; sourceTree = "<group>"; };
+		8B1135AB2F96F03100E1DB20 /* audioeffect.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = audioeffect.h; sourceTree = "<group>"; };
 		8D01CCD10486CAD60068D4B7 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = mac/Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -66,7 +66,7 @@
 		08FB77ADFE841716C02AAC07 /* Source */ = {
 			isa = PBXGroup;
 			children = (
-				8B2242E82EEC9303009150EE /* vstsdk2.4 */,
+				8B11359D2F96F03100E1DB20 /* vstsdk2.4 */,
 				2407DEB6089929BA00EB68BF /* Dynamics3.cpp */,
 				24D8286F09A914000093AEF8 /* Dynamics3Proc.cpp */,
 				245463B80991757100464AD3 /* Dynamics3.h */,
@@ -82,59 +82,59 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		8B2242E82EEC9303009150EE /* vstsdk2.4 */ = {
+		8B11359D2F96F03100E1DB20 /* vstsdk2.4 */ = {
 			isa = PBXGroup;
 			children = (
-				8B2242E92EEC9303009150EE /* pluginterfaces */,
-				8B2242EE2EEC9303009150EE /* public.sdk */,
+				8B11359E2F96F03100E1DB20 /* pluginterfaces */,
+				8B1135A32F96F03100E1DB20 /* public.sdk */,
 			);
 			name = vstsdk2.4;
 			path = ../../../../vstsdk2.4;
 			sourceTree = "<group>";
 		};
-		8B2242E92EEC9303009150EE /* pluginterfaces */ = {
+		8B11359E2F96F03100E1DB20 /* pluginterfaces */ = {
 			isa = PBXGroup;
 			children = (
-				8B2242EA2EEC9303009150EE /* vst2.x */,
+				8B11359F2F96F03100E1DB20 /* vst2.x */,
 			);
 			path = pluginterfaces;
 			sourceTree = "<group>";
 		};
-		8B2242EA2EEC9303009150EE /* vst2.x */ = {
+		8B11359F2F96F03100E1DB20 /* vst2.x */ = {
 			isa = PBXGroup;
 			children = (
-				8B2242EB2EEC9303009150EE /* vstfxstore.h */,
-				8B2242EC2EEC9303009150EE /* aeffect.h */,
-				8B2242ED2EEC9303009150EE /* aeffectx.h */,
+				8B1135A02F96F03100E1DB20 /* vstfxstore.h */,
+				8B1135A12F96F03100E1DB20 /* aeffect.h */,
+				8B1135A22F96F03100E1DB20 /* aeffectx.h */,
 			);
 			path = vst2.x;
 			sourceTree = "<group>";
 		};
-		8B2242EE2EEC9303009150EE /* public.sdk */ = {
+		8B1135A32F96F03100E1DB20 /* public.sdk */ = {
 			isa = PBXGroup;
 			children = (
-				8B2242EF2EEC9303009150EE /* source */,
+				8B1135A42F96F03100E1DB20 /* source */,
 			);
 			path = public.sdk;
 			sourceTree = "<group>";
 		};
-		8B2242EF2EEC9303009150EE /* source */ = {
+		8B1135A42F96F03100E1DB20 /* source */ = {
 			isa = PBXGroup;
 			children = (
-				8B2242F02EEC9303009150EE /* vst2.x */,
+				8B1135A52F96F03100E1DB20 /* vst2.x */,
 			);
 			path = source;
 			sourceTree = "<group>";
 		};
-		8B2242F02EEC9303009150EE /* vst2.x */ = {
+		8B1135A52F96F03100E1DB20 /* vst2.x */ = {
 			isa = PBXGroup;
 			children = (
-				8B2242F12EEC9303009150EE /* audioeffectx.h */,
-				8B2242F22EEC9303009150EE /* audioeffect.cpp */,
-				8B2242F32EEC9303009150EE /* audioeffectx.cpp */,
-				8B2242F42EEC9303009150EE /* aeffeditor.h */,
-				8B2242F52EEC9303009150EE /* vstplugmain.cpp */,
-				8B2242F62EEC9303009150EE /* audioeffect.h */,
+				8B1135A62F96F03100E1DB20 /* audioeffectx.h */,
+				8B1135A72F96F03100E1DB20 /* audioeffect.cpp */,
+				8B1135A82F96F03100E1DB20 /* audioeffectx.cpp */,
+				8B1135A92F96F03100E1DB20 /* aeffeditor.h */,
+				8B1135AA2F96F03100E1DB20 /* vstplugmain.cpp */,
+				8B1135AB2F96F03100E1DB20 /* audioeffect.h */,
 			);
 			path = vst2.x;
 			sourceTree = "<group>";
@@ -146,14 +146,14 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8B2242FD2EEC9303009150EE /* aeffeditor.h in Headers */,
+				8B1135B22F96F03100E1DB20 /* aeffeditor.h in Headers */,
 				245463B90991757100464AD3 /* Dynamics3.h in Headers */,
-				8B2242FF2EEC9303009150EE /* audioeffect.h in Headers */,
-				8B2242F82EEC9303009150EE /* aeffect.h in Headers */,
+				8B1135B42F96F03100E1DB20 /* audioeffect.h in Headers */,
+				8B1135AD2F96F03100E1DB20 /* aeffect.h in Headers */,
 				24D8287F09A9164A0093AEF8 /* xcode_vst_prefix.h in Headers */,
-				8B2242FA2EEC9303009150EE /* audioeffectx.h in Headers */,
-				8B2242F72EEC9303009150EE /* vstfxstore.h in Headers */,
-				8B2242F92EEC9303009150EE /* aeffectx.h in Headers */,
+				8B1135AF2F96F03100E1DB20 /* audioeffectx.h in Headers */,
+				8B1135AC2F96F03100E1DB20 /* vstfxstore.h in Headers */,
+				8B1135AE2F96F03100E1DB20 /* aeffectx.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -192,11 +192,11 @@
 			developmentRegion = en;
 			hasScannedForEncodings = 1;
 			knownRegions = (
-				en,
 				fr,
-				de,
+				en,
 				Base,
 				ja,
+				de,
 			);
 			mainGroup = 089C166AFE841209C02AAC07 /* FM-Chopper */;
 			projectDirPath = "";
@@ -240,10 +240,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8B2242FC2EEC9303009150EE /* audioeffectx.cpp in Sources */,
+				8B1135B12F96F03100E1DB20 /* audioeffectx.cpp in Sources */,
 				2407DEB9089929BA00EB68BF /* Dynamics3.cpp in Sources */,
-				8B2242FB2EEC9303009150EE /* audioeffect.cpp in Sources */,
-				8B2242FE2EEC9303009150EE /* vstplugmain.cpp in Sources */,
+				8B1135B02F96F03100E1DB20 /* audioeffect.cpp in Sources */,
+				8B1135B32F96F03100E1DB20 /* vstplugmain.cpp in Sources */,
 				24D8287009A914000093AEF8 /* Dynamics3Proc.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

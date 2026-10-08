@@ -13,14 +13,13 @@ Dynamics3::Dynamics3(audioMasterCallback audioMaster) :
     AudioEffectX(audioMaster, kNumPrograms, kNumParameters)
 {
 	A = 1.0;
-	B = 0.5;
-	C = 0.5;
-	D = 0.0;
-	
+	B = 0.382;
+	C = 0.618;
+	D = 1.0;
+
 	for (int x = 0; x < bez_total; x++) bezComp[x] = 0.0;
-	bezComp[bez_cycle] = 1.0; bezMax = 0.0; bezMin = 0.0;
-	bezGate = 2.0;
-	
+	//Dynamics3
+		
 	fpdL = 1.0; while (fpdL < 16386) fpdL = rand()*UINT32_MAX;
 	fpdR = 1.0; while (fpdR < 16386) fpdR = rand()*UINT32_MAX;
 	//this is reset: values being initialized only once. Startup values, whatever they are.
@@ -105,7 +104,7 @@ void Dynamics3::getParameterName(VstInt32 index, char *text) {
         case kParamA: vst_strncpy (text, "Thresh", kVstMaxParamStrLen); break;
 		case kParamB: vst_strncpy (text, "Attack", kVstMaxParamStrLen); break;
 		case kParamC: vst_strncpy (text, "Release", kVstMaxParamStrLen); break;
-		case kParamD: vst_strncpy (text, "Gate", kVstMaxParamStrLen); break;
+		case kParamD: vst_strncpy (text, "Inv/Wet", kVstMaxParamStrLen); break;
         default: break; // unknown parameter, shouldn't happen!
     } //this is our labels for displaying in the VST host
 }

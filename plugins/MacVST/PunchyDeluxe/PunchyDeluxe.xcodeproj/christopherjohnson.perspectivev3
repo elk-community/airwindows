@@ -222,48 +222,7 @@
 		</dict>
 	</array>
 	<key>OpenEditors</key>
-	<array>
-		<dict>
-			<key>Content</key>
-			<dict>
-				<key>PBXProjectModuleGUID</key>
-				<string>8BE3CB212EE6BA67004F72BD</string>
-				<key>PBXProjectModuleLabel</key>
-				<string>PunchyDeluxeProc.cpp</string>
-				<key>PBXSplitModuleInNavigatorKey</key>
-				<dict>
-					<key>Split0</key>
-					<dict>
-						<key>PBXProjectModuleGUID</key>
-						<string>8BE3CB222EE6BA67004F72BD</string>
-						<key>PBXProjectModuleLabel</key>
-						<string>PunchyDeluxeProc.cpp</string>
-						<key>_historyCapacity</key>
-						<integer>0</integer>
-						<key>bookmark</key>
-						<string>8BE3CB232EE6BA67004F72BD</string>
-						<key>history</key>
-						<array>
-							<string>8BE3CB092EE6BA06004F72BD</string>
-						</array>
-					</dict>
-					<key>SplitCount</key>
-					<string>1</string>
-				</dict>
-				<key>StatusBarVisibility</key>
-				<true/>
-			</dict>
-			<key>Geometry</key>
-			<dict>
-				<key>Frame</key>
-				<string>{{0, 20}, {1271, 708}}</string>
-				<key>PBXModuleWindowStatusBarHidden2</key>
-				<false/>
-				<key>RubberWindowFrame</key>
-				<string>31 124 1271 749 0 0 1440 878 </string>
-			</dict>
-		</dict>
-	</array>
+	<array/>
 	<key>PerspectiveWidths</key>
 	<array>
 		<integer>810</integer>
@@ -364,7 +323,7 @@
 							<real>185</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>34 365 810 487 0 0 1440 878 </string>
+						<string>620 305 810 487 0 0 1440 878 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -392,10 +351,10 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>8BE3CB1D2EE6BA67004F72BD</string>
+										<string>8B8FB6B8302FB3CD00C08005</string>
 										<key>history</key>
 										<array>
-											<string>8BE3CB1C2EE6BA67004F72BD</string>
+											<string>8B7F1687302F708F009596C1</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -409,18 +368,18 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {603, 132}}</string>
+								<string>{{0, 0}, {603, 69}}</string>
 								<key>RubberWindowFrame</key>
-								<string>34 365 810 487 0 0 1440 878 </string>
+								<string>620 305 810 487 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>132pt</string>
+							<string>69pt</string>
 						</dict>
 						<dict>
 							<key>Proportion</key>
-							<string>309pt</string>
+							<string>372pt</string>
 							<key>Tabs</key>
 							<array>
 								<dict>
@@ -434,9 +393,9 @@
 									<key>GeometryConfiguration</key>
 									<dict>
 										<key>Frame</key>
-										<string>{{10, 27}, {603, 282}}</string>
+										<string>{{10, 27}, {603, 345}}</string>
 										<key>RubberWindowFrame</key>
-										<string>34 365 810 487 0 0 1440 878 </string>
+										<string>620 305 810 487 0 0 1440 878 </string>
 									</dict>
 									<key>Module</key>
 									<string>XCDetailModule</string>
@@ -518,11 +477,11 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>8BE3CB1E2EE6BA67004F72BD</string>
+				<string>8B8FB6B9302FB3CD00C08005</string>
 				<string>1CA23ED40692098700951B8B</string>
-				<string>8BE3CB1F2EE6BA67004F72BD</string>
+				<string>8B8FB6BA302FB3CD00C08005</string>
 				<string>8B0237581D42B1C400E1E8C8</string>
-				<string>8BE3CB202EE6BA67004F72BD</string>
+				<string>8B8FB6BB302FB3CD00C08005</string>
 				<string>1CA23EDF0692099D00951B8B</string>
 				<string>1CA23EE00692099D00951B8B</string>
 				<string>1CA23EE10692099D00951B8B</string>
@@ -675,7 +634,7 @@
 	<key>StatusbarIsVisible</key>
 	<true/>
 	<key>TimeStamp</key>
-	<real>786872935.10393405</real>
+	<real>808432589.74505305</real>
 	<key>ToolbarConfigUserDefaultsMinorVersion</key>
 	<string>2</string>
 	<key>ToolbarDisplayMode</key>
@@ -692,11 +651,11 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
+		<string>8B8FB6BC302FB3CD00C08005</string>
 		<string>/Users/christopherjohnson/Desktop/PunchyDeluxe/PunchyDeluxe.xcodeproj</string>
-		<string>8BE3CB212EE6BA67004F72BD</string>
 	</array>
 	<key>WindowString</key>
-	<string>34 365 810 487 0 0 1440 878 </string>
+	<string>620 305 810 487 0 0 1440 878 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>

@@ -1,0 +1,148 @@
+// !$*UTF8*$!
+{
+	089C1669FE841209C02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeTarget = 8D01CCC60486CAD60068D4B7 /* ChannelX */;
+		codeSenseManager = 8BD3CCB9148830B20062E48C /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					292,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					252,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 809160432;
+			PBXWorkspaceStateSaveDate = 809160432;
+		};
+		perUserProjectItems = {
+			8B3B3E7F303ACD18007D2C16 /* PBXTextBookmark */ = 8B3B3E7F303ACD18007D2C16 /* PBXTextBookmark */;
+			8B3B3E81303ACD18007D2C16 /* PBXTextBookmark */ = 8B3B3E81303ACD18007D2C16 /* PBXTextBookmark */;
+			8B3B3EA1303ACEF7007D2C16 /* PBXTextBookmark */ = 8B3B3EA1303ACEF7007D2C16 /* PBXTextBookmark */;
+			8B9A070730192801000F0166 /* PlistBookmark */ = 8B9A070730192801000F0166 /* PlistBookmark */;
+		};
+		sourceControlManager = 8BD3CCB8148830B20062E48C /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8B3B3E7F303ACD18007D2C16 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8BA05A660720730100365D66 /* ChannelX.cpp */;
+		name = "ChannelX.cpp: 276";
+		rLen = 0;
+		rLoc = 12287;
+		rType = 0;
+		vrLen = 391;
+		vrLoc = 3;
+	};
+	8B3B3E81303ACD18007D2C16 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8BC6025B073B072D006C4272 /* ChannelX.h */;
+		name = "ChannelX.h: 150";
+		rLen = 0;
+		rLoc = 5825;
+		rType = 0;
+		vrLen = 296;
+		vrLoc = 5708;
+	};
+	8B3B3EA1303ACEF7007D2C16 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8BC6025B073B072D006C4272 /* ChannelX.h */;
+		name = "ChannelX.h: 150";
+		rLen = 0;
+		rLoc = 5825;
+		rType = 0;
+		vrLen = 281;
+		vrLoc = 5723;
+	};
+	8B9A070730192801000F0166 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D01CCD10486CAD60068D4B7 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleName,
+		);
+		name = /Users/christopherjohnson/Desktop/airwindows/plugins/MacAU/ChannelX/Info.plist;
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	8BA05A660720730100365D66 /* ChannelX.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1164, 6462}}";
+			sepNavSelRange = "{9987, 2225}";
+			sepNavVisRange = "{9918, 2534}";
+			sepNavWindowFrame = "{{206, 38}, {1210, 840}}";
+		};
+	};
+	8BA05A690720730100365D66 /* ChannelXVersion.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1056, 1062}}";
+			sepNavSelRange = "{2899, 0}";
+			sepNavVisRange = "{966, 1996}";
+			sepNavWindowFrame = "{{15, 38}, {949, 839}}";
+		};
+	};
+	8BC6025B073B072D006C4272 /* ChannelX.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {849, 3204}}";
+			sepNavSelRange = "{5825, 0}";
+			sepNavVisRange = "{5723, 281}";
+			sepNavWindowFrame = "{{15, 39}, {949, 839}}";
+		};
+	};
+	8BD3CCB8148830B20062E48C /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8BD3CCB9148830B20062E48C /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8D01CCC60486CAD60068D4B7 /* ChannelX */ = {
+		activeExec = 0;
+	};
+}

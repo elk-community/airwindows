@@ -235,7 +235,10 @@ void		PunchyGuitar::PunchyGuitarKernel::Reset()
 			angS[x][y] = 0.0;angA[x][y] = 0.0;
 		}
 	}
-	for(int y=0; y<11; y++) angG[y] = 0.0;
+	for(int y=0; y<11; y++) {
+		angG[y] = 0.0;
+		for (int x = 0; x < bip_total; x++) bip[x][y] = 0.0;
+	}
 	for(int count = 0; count < 36; count++) {
 		iirHPosition[count] = 0.0;
 		iirHAngle[count] = 0.0;
@@ -333,16 +336,28 @@ void		PunchyGuitar::PunchyGuitarKernel::Process(	const Float32 	*inSourceP,
 			}
 			inputSample += (band*angG[9]);
 			inputSample *= drive;
-			inputSample = fmin(fmax(inputSample,-2.032610446872596),2.032610446872596);
-			long double X = inputSample * inputSample;
-			long double temp = inputSample * X;
-			inputSample -= (temp*0.125); temp *= X;
-			inputSample += (temp*0.0078125); temp *= X;
-			inputSample -= (temp*0.000244140625); temp *= X;
-			inputSample += (temp*0.000003814697265625); temp *= X;
-			inputSample -= (temp*0.0000000298023223876953125); temp *= X;
-			//purestsaturation: sine, except all the corrections
+			double bip_delta = inputSample; //delta can be just local and re-used
+			inputSample = fmin(fmax(inputSample,-M_PI_2),M_PI_2);
+			long double X = inputSample; X *= X; //long double for even
+			long double temp = inputSample * X; //the initial multiplies
+			inputSample -= temp*0.16666666666666666666666666666666666; temp *= X;
+			inputSample += temp*0.00833333333333333333333333333333333; temp *= X;
+			inputSample -= temp*0.00019841269841269841269841269841269; temp *= X;
+			inputSample += temp*0.00000275573192239858906525573192239; temp *= X;
+			inputSample -= temp*0.00000002505210838544171877521083854; temp *= X;
+			inputSample += temp*0.00000000016059043836821614599392377; temp *= X;
+			inputSample -= temp*0.00000000000076471637318198164759011; temp *= X;
+			inputSample += temp*0.00000000000000281145725434552076319; temp *= X;
+			inputSample -= temp*0.00000000000000000822063524662432971; temp *= X;
+			inputSample += temp*0.00000000000000000001957294106339126;
 			//retain mantissa of a long double increasing power function
+			//long double probably doesn't handle more than 36 digits or so
+			bip[bip_dvA][x] = bip_delta - inputSample; // these are derivatives: raw clip is position
+			bip[bip_dvB][x] = bip[bip_pvA][x]-bip[bip_dvA][x]; bip[bip_pvA][x] = bip[bip_dvA][x];//velocity
+			bip[bip_dvC][x] = bip[bip_pvB][x]-bip[bip_dvB][x]; bip[bip_pvB][x] = bip[bip_dvB][x];//acceleration
+			bip[bip_dvD][x] = bip[bip_pvC][x]-bip[bip_dvC][x]; bip[bip_pvC][x] = bip[bip_dvC][x];//jerk
+			double bip_dvE = bip[bip_pvD][x]-bip[bip_dvD][x]; bip[bip_pvD][x] = bip[bip_dvD][x];//snap
+			inputSample *= (1.0+(fabs(bip[bip_dvC][x])*0.0618)+(fabs(bip[bip_dvD][x])*-0.05982)+(fabs(bip_dvE)*0.0206));
 		}
 		
 		if (gateroller < 1.0)
@@ -373,7 +388,7 @@ void		PunchyGuitar::PunchyGuitarKernel::Process(	const Float32 	*inSourceP,
 		//begin 32 bit floating point dither
 		int expon; frexpf((float)inputSample, &expon);
 		fpd ^= fpd << 13; fpd ^= fpd >> 17; fpd ^= fpd << 5;
-		inputSample += ((double(fpd)-uint32_t(0x7fffffff)) * 5.5e-36l * pow(2,expon+62));
+		inputSample += ((double(fpd)-uint32_t(0x7fffffff)) * 3.553e-44l * pow(2,expon+62));
 		//end 32 bit floating point dither
 		
 		*destP = inputSample;
